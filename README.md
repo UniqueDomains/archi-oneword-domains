@@ -1,62 +1,62 @@
 
-# List of .ARCHI One Word Domain Names (3,384)
+# List of .ARCHI One Word Domain Names (3,393)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/archi-oneword-domains.svg?style=flat)]() [![3,384 .ARCHI one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C384-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/archi-oneword-domains.svg?style=flat)]() [![3,393 .ARCHI one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C393-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential .ARCHI one-word domains still available to buy.
 
-This dataset contains 3,393 .ARCHI one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,398 .ARCHI one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.ARCHI one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=description.top) (3,384) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.ARCHI one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=description.top) (3,393) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/archi-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/archi-oneword-domains/blob/main/archi.csv"><b>⬇️ CSV (3.39K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/archi-oneword-domains/blob/main/archi.json"><b>⬇️ JSON (3.39K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.38K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/archi-oneword-domains/blob/main/archi.csv"><b>⬇️ CSV (3.4K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/archi-oneword-domains/blob/main/archi.json"><b>⬇️ JSON (3.4K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.39K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires | Actions                                                                                                                                                                                |
-| ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| abactinal.archi  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/09189950-4f38-4e45-850e-5723218ddeba?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abaft.archi      | available | 43       | 2%     | 5      |           |         |         | [Analyse](https://unique.domains/domain/8b6b7a31-df01-421d-8c10-8905eef41800?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abandoned.archi  | available | 58       | 10%    | 9      |           |         |         | [Analyse](https://unique.domains/domain/9c48755d-1aaf-48a6-ae6a-2b65a762228d?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abashed.archi    | available | 60       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/bf6d3e2e-245b-42a7-912e-7df229e65676?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abasic.archi     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/ac9009c7-8deb-41dc-bed2-cffcec73dbc0?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abatable.archi   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/42fbef5e-ff04-495a-b692-bb669e024a8c?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abatic.archi     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/4004684e-ed1f-4ca7-af8e-4189818cb8e0?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abaxial.archi    | available | 54       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/e63b247c-01ff-4cd2-8f3e-663b689d789b?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abbatial.archi   | available | 50       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/93784b7c-53b6-4747-8e46-09a04f253015?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abdicable.archi  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/eeec0ad8-88ac-47bb-a694-186c8ed19013?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abdominal.archi  | available | 82       | 2%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/e6da4c46-af19-4146-9b07-39092cd4c8ff?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abdominous.archi | available | 56       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/ff46cd38-6e9c-407d-82bf-efa1c0ddd7f0?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abducens.archi   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/ad77308e-c6fe-4fb6-a1a8-f07366c9ccaf?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abducent.archi   | available | 68       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/563dffd3-17d9-4603-9bed-39bc712dcc34?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abducting.archi  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/824b984b-b08e-4b87-aa6e-34e84a2cc89a?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abenaki.archi    | available | 82       | 3%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/f6591c53-c778-40ce-ade2-0c1b798265b2?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| aberdonian.archi | available | 68       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/ec368b8c-a7a4-432e-b098-b72d9145dabb?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| aberrant.archi   | available | 74       | 7%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/0ed73fd4-c0ee-4a68-841a-cdeaf8c92234?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abeyant.archi    | available | 56       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/131e1a3f-2ab2-449a-9aa9-25591669650e?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abhorrent.archi  | available | 54       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/3c09ab48-4bd1-4eb7-a77e-7a8a2b3a8164?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abiding.archi    | available | 106      | 5%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/30cb5807-9ecd-479a-bbf1-620d9be0b329?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abient.archi     | available | 54       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/588d259e-29a1-4e52-9442-15f17ac9270e?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abject.archi     | available | 94       | 8%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/b8fb228e-08f1-4cc4-9713-6a151348da1b?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abkhas.archi     | available | 68       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/0dd6173a-ab6a-40f1-a515-d1891af9b04a?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abkhasian.archi  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/179608fc-03cf-4e9c-84d7-ad9240754289?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abkhaz.archi     | available | 82       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/20528f19-7468-4756-92fb-b7ae04444317?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| abkhazian.archi  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/42642904-8275-4e50-9f50-3fc9b15670cb?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| ablated.archi    | available | 52       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/30771b33-3400-40fe-9dae-b87d89bcf5f8?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| ablative.archi   | available | 68       | 3%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/4c24c0ac-9ca2-491c-ae9e-a0edc613e8fa?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
-| ablaze.archi     | available | 72       | 6%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/6f30e655-cc15-4dde-8c39-a75158fcb44e?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.domain.analyze) |
+| Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| abactinal.archi  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.archi      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.archi  | available | 58       | 10%    | 9      |           |         |         |
+| abashed.archi    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.archi     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.archi   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.archi     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.archi    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.archi   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.archi  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.archi  | available | 82       | 2%     | 9      |           |         |         |
+| abdominous.archi | available | 56       | 1%     | 10     |           |         |         |
+| abducens.archi   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.archi   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.archi  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.archi    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.archi | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.archi   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.archi    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.archi  | available | 54       | 1%     | 9      |           |         |         |
+| abiding.archi    | available | 106      | 5%     | 7      |           |         |         |
+| abient.archi     | available | 54       | 1%     | 6      |           |         |         |
+| abject.archi     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.archi     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.archi  | available | 78       | 1%     | 9      |           |         |         |
+| abkhaz.archi     | available | 82       | 2%     | 6      |           |         |         |
+| abkhazian.archi  | available | 78       | 1%     | 9      |           |         |         |
+| ablated.archi    | available | 52       | 2%     | 7      |           |         |         |
+| ablative.archi   | available | 68       | 3%     | 8      |           |         |         |
+| ablaze.archi     | available | 72       | 6%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/archi-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/archi-oneword-domains/blob/main/archi.csv"><b>⬇️ CSV (3.39K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/archi-oneword-domains/blob/main/archi.json"><b>⬇️ JSON (3.39K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.38K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/archi-oneword-domains/blob/main/archi.csv"><b>⬇️ CSV (3.4K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/archi-oneword-domains/blob/main/archi.json"><b>⬇️ JSON (3.4K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.39K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -89,26 +89,26 @@ If you want to search & filters the complete database of [.ARCHI one word domain
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 19,565       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 45,236       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 2,942,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 19,571       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 45,247       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 2,943,532    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 3,208        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
-| .ACADEMY       | 2,940        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
-| .ACCOUNTANT    | 3,460        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
-| .ACCOUNTANTS   | 3,414        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
-| .ACTOR         | 3,395        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
-| .ADULT         | 3,412        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
-| .AG            | 3,248        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
-| .AGENCY        | 2,583        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
+| .AC            | 3,215        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .ACADEMY       | 2,943        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
+| .ACCOUNTANT    | 3,463        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
+| .ACCOUNTANTS   | 3,417        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
+| .ACTOR         | 3,399        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
+| .ADULT         | 3,415        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
+| .AG            | 3,249        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
+| .AGENCY        | 2,587        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
 | .AI            | 53,577       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
-| .AIRFORCE      | 3,444        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
-| .APARTMENTS    | 3,388        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
+| .AIRFORCE      | 3,453        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
+| .APARTMENTS    | 3,397        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
 | .APP           | 56,519       | [Github](https://github.com/UniqueDomains/app-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
-| .ARCHI         | 3,384        | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
+| .ARCHI         | 3,393        | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
 | .ARMY          | 3,300        | [Github](https://github.com/UniqueDomains/army-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=army-oneword-domains&utm_content=table.link)          |
 | .ART           | 3,120        | [Github](https://github.com/UniqueDomains/art-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=table.link)           |
 | .ASIA          | 2,819        | [Github](https://github.com/UniqueDomains/asia-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=table.link)          |
