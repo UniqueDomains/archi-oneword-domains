@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.ARCHI one word domain
 | abaxial.archi    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.archi   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.archi  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.archi  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.archi  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.archi | available | 56       | 1%     | 10     |           |         |         |
 | abducens.archi   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.archi   | available | 68       | 1%     | 8      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.ARCHI one word domain
 | aberdonian.archi | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.archi   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.archi    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.archi  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.archi  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.archi    | available | 106      | 5%     | 7      |           |         |         |
 | abient.archi     | available | 54       | 1%     | 6      |           |         |         |
 | ability.archi    | available | 92       | 18%    | 7      |           |         |         |
