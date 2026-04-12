@@ -64,10 +64,10 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| zero.archi         | available | $24.99    | $136.99       | 112            | 54     | 4      | name.com            |
+| alpha.archi        | available | $24.99    | $136.99       | 90             | 54     | 5      | name.com            |
 | open.archi         | resell    | —         | —             | 106            | 99     | 4      | Sav.com, LLC - 41   |
 | hotel.archi        | premium   | $650      | $650          | 70             | 45     | 5      | namecheap           |
-| alpha.archi        | available | $24.99    | $136.99       | 90             | 54     | 5      | name.com            |
+| zero.archi         | available | $24.99    | $136.99       | 112            | 53     | 4      | name.com            |
 | universal.archi    | resell    | —         | —             | 96             | 81     | 9      | Dynadot Inc         |
 | property.archi     | premium   | $128.70   | $128.70       | 90             | 39     | 8      | namecheap           |
 | true.archi         | available | $24.99    | $136.99       | 86             | 52     | 4      | name.com            |
