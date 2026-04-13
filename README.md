@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .archi one-word domains from Uniqu
 
 **Public extract:** 9,606 rows · **Live catalog:** 9,606 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/archi`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| alpha.archi        | available | $24.99    | $136.99       | 90             | 54     | 5      | name.com            |
+| zero.archi         | available | $24.99    | $136.99       | 112            | 53     | 4      | name.com            |
 | open.archi         | resell    | —         | —             | 106            | 99     | 4      | Sav.com, LLC - 41   |
 | hotel.archi        | premium   | $650      | $650          | 70             | 45     | 5      | namecheap           |
-| zero.archi         | available | $24.99    | $136.99       | 112            | 53     | 4      | name.com            |
+| alpha.archi        | available | $24.99    | $136.99       | 90             | 53     | 5      | name.com            |
 | universal.archi    | resell    | —         | —             | 96             | 81     | 9      | Dynadot Inc         |
 | property.archi     | premium   | $128.70   | $128.70       | 90             | 39     | 8      | namecheap           |
 | true.archi         | available | $24.99    | $136.99       | 86             | 52     | 4      | name.com            |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
