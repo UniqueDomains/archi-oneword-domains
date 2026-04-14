@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .archi one-word domains from Uniqu
 
 **Public extract:** 9,606 rows · **Live catalog:** 9,606 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/archi`  
 **Best for:** founders, investors, studios
 
@@ -79,7 +79,7 @@ print(df.head())
 | clear.archi        | available | $24.99    | $136.99       | 90             | 49     | 5      | name.com            |
 | the.archi          | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 31   |
 | building.archi     | premium   | $650      | $650          | 74             | 31     | 8      | namecheap           |
-| real.archi         | available | $132.98   | —             | 78             | 49     | 4      | namecheap           |
+| real.archi         | available | $132.98   | —             | 78             | 48     | 4      | namecheap           |
 | smart.archi        | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc         |
 | construction.archi | premium   | $128.70   | $128.70       | 66             | 30     | 12     | namecheap           |
 | trade.archi        | available | $132.98   | —             | 116            | 46     | 5      | namecheap           |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
