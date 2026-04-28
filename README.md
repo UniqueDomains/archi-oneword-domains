@@ -1,22 +1,22 @@
-# Available .ARCHI One-Word Domains (9,606)
+# Available .ARCHI One-Word Domains (12,572)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C606%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C606%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C572%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .archi one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .archi one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,572 domains** on the canonical page below.
 
-**Public extract:** 9,606 rows · **Live catalog:** 9,606 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,572 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-28  
 **Canonical page:** `https://unique.domains/domains/tld/archi`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ARCHI one-word domain
 
 ### Files
 
-- `archi.csv` — public CSV extract (9,606 rows)
-- `archi.json` — public JSON extract (9,606 rows)
+- `archi.csv` — public CSV extract (1,000 rows)
+- `archi.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| zero.archi         | available | $24.99    | $136.99       | 112            | 53     | 4      | name.com            |
-| open.archi         | resell    | —         | —             | 106            | 99     | 4      | Sav.com, LLC - 41   |
-| hotel.archi        | premium   | $650      | $650          | 70             | 45     | 5      | namecheap           |
-| alpha.archi        | available | $24.99    | $136.99       | 90             | 53     | 5      | name.com            |
-| universal.archi    | resell    | —         | —             | 96             | 81     | 9      | Dynadot Inc         |
-| property.archi     | premium   | $128.70   | $128.70       | 90             | 39     | 8      | namecheap           |
-| true.archi         | available | $24.99    | $136.99       | 86             | 52     | 4      | name.com            |
-| line.archi         | resell    | —         | —             | 74             | 65     | 4      | Tucows Domains Inc. |
-| cool.archi         | premium   | $123.75   | $123.75       | 76             | 38     | 4      | name.com            |
-| one.archi          | available | $24.99    | $136.99       | 132            | 51     | 3      | name.com            |
-| web.archi          | resell    | —         | —             | 72             | 61     | 3      | Sav.com, LLC        |
-| student.archi      | premium   | $128.70   | $128.70       | 78             | 37     | 7      | namecheap           |
-| clear.archi        | available | $24.99    | $136.99       | 90             | 49     | 5      | name.com            |
-| the.archi          | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 31   |
-| building.archi     | premium   | $650      | $650          | 74             | 31     | 8      | namecheap           |
-| real.archi         | available | $132.98   | —             | 78             | 48     | 4      | namecheap           |
-| smart.archi        | resell    | —         | —             | 74             | 56     | 5      | Dynadot Inc         |
-| construction.archi | premium   | $128.70   | $128.70       | 66             | 30     | 12     | namecheap           |
-| trade.archi        | available | $132.98   | —             | 116            | 46     | 5      | namecheap           |
-| shop.archi         | resell    | —         | —             | 78             | 54     | 4      | Sav.com, LLC - 33   |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| prompts.archi      | available | $24.99    | —             | 54             | 39     | 7      | name.com     |
+| web.archi          | resell    | —         | —             | 72             | 61     | 3      | Sav.com, LLC |
+| homes.archi        | premium   | $187.50   | —             | 86             | 34     | 5      | name.com     |
+| justin.archi       | available | $24.99    | —             | 58             | 38     | 7      | name.com     |
+| designs.archi      | premium   | $187.50   | —             | 72             | 21     | 7      | name.com     |
+| stories.archi      | available | $24.99    | —             | 58             | 36     | 7      | name.com     |
+| apartments.archi   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
+| payments.archi     | available | $24.99    | —             | 58             | 33     | 8      | name.com     |
+| studios.archi      | premium   | $123.75   | —             | 54             | 21     | 7      | name.com     |
+| rewards.archi      | available | $24.99    | —             | 62             | 30     | 7      | name.com     |
+| plans.archi        | premium   | $625      | —             | 60             | 20     | 5      | name.com     |
+| heroes.archi       | available | $24.99    | —             | 68             | 29     | 6      | name.com     |
+| landscaping.archi  | premium   | $123.75   | —             | 80             | 16     | 11     | name.com     |
+| blocks.archi       | available | $24.99    | —             | 53             | 29     | 6      | name.com     |
+| Jim.archi          | available | $132.98   | —             | 78             | 28     | 3      | namecheap    |
+| commonground.archi | available | $24.99    | —             | 74             | 28     | 13     | name.com     |
+| gems.archi         | available | $24.99    | —             | 70             | 28     | 4      | name.com     |
+| gods.archi         | available | $24.99    | —             | 72             | 27     | 4      | name.com     |
+| trades.archi       | available | $24.99    | —             | 71             | 26     | 6      | name.com     |
+| traders.archi      | available | $24.99    | —             | 60             | 26     | 7      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,606-row public sample | 9,606 live domains                               |
+| 1,000-row public sample | 12,572 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-04-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
