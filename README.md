@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .archi one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,572 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,572 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,572 domains · **Median ask:** $34.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/archi`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| prompts.archi      | available | $24.99    | —             | 54             | 39     | 7      | name.com     |
-| web.archi          | resell    | —         | —             | 72             | 61     | 3      | Sav.com, LLC |
-| homes.archi        | premium   | $187.50   | —             | 86             | 34     | 5      | name.com     |
-| justin.archi       | available | $24.99    | —             | 58             | 38     | 7      | name.com     |
-| designs.archi      | premium   | $187.50   | —             | 72             | 21     | 7      | name.com     |
-| stories.archi      | available | $24.99    | —             | 58             | 36     | 7      | name.com     |
-| apartments.archi   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
-| payments.archi     | available | $24.99    | —             | 58             | 33     | 8      | name.com     |
-| studios.archi      | premium   | $123.75   | —             | 54             | 21     | 7      | name.com     |
-| rewards.archi      | available | $24.99    | —             | 62             | 30     | 7      | name.com     |
-| plans.archi        | premium   | $625      | —             | 60             | 20     | 5      | name.com     |
-| heroes.archi       | available | $24.99    | —             | 68             | 29     | 6      | name.com     |
-| landscaping.archi  | premium   | $123.75   | —             | 80             | 16     | 11     | name.com     |
-| blocks.archi       | available | $24.99    | —             | 53             | 29     | 6      | name.com     |
-| Jim.archi          | available | $132.98   | —             | 78             | 28     | 3      | namecheap    |
-| commonground.archi | available | $24.99    | —             | 74             | 28     | 13     | name.com     |
-| gems.archi         | available | $24.99    | —             | 70             | 28     | 4      | name.com     |
-| gods.archi         | available | $24.99    | —             | 72             | 27     | 4      | name.com     |
-| trades.archi       | available | $24.99    | —             | 71             | 26     | 6      | name.com     |
-| traders.archi      | available | $24.99    | —             | 60             | 26     | 7      | name.com     |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| Trex.archi       | available | $132.98   | —             | 80             | 24     | 5      | namecheap    |
+| finals.archi     | available | $24.99    | —             | 80             | 7      | 6      | name.com     |
+| barup.archi      | available | $24.99    | —             | 82             | 2      | 6      | name.com     |
+| forces.archi     | available | $24.99    | —             | 82             | 12     | 6      | name.com     |
+| geton.archi      | available | $24.99    | —             | 82             | 10     | 6      | name.com     |
+| getup.archi      | available | $24.99    | —             | 82             | 14     | 6      | name.com     |
+| useit.archi      | available | $24.99    | —             | 94             | 7      | 6      | name.com     |
+| edamame.archi    | available | $24.99    | —             | 80             | 9      | 7      | name.com     |
+| watches.archi    | available | $24.99    | —             | 84             | 19     | 7      | name.com     |
+| prompts.archi    | available | $24.99    | —             | 54             | 39     | 7      | name.com     |
+| web.archi        | resell    | —         | —             | 72             | 61     | 3      | Sav.com, LLC |
+| homes.archi      | premium   | $187.50   | —             | 86             | 34     | 5      | name.com     |
+| justin.archi     | available | $24.99    | —             | 58             | 38     | 7      | name.com     |
+| designs.archi    | premium   | $187.50   | —             | 72             | 21     | 7      | name.com     |
+| stories.archi    | available | $24.99    | —             | 58             | 36     | 7      | name.com     |
+| apartments.archi | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
+| payments.archi   | available | $24.99    | —             | 58             | 33     | 8      | name.com     |
+| studios.archi    | premium   | $123.75   | —             | 54             | 21     | 7      | name.com     |
+| rewards.archi    | available | $24.99    | —             | 62             | 30     | 7      | name.com     |
+| plans.archi      | premium   | $625      | —             | 60             | 20     | 5      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,572 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,572 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .archi domains. The set spans generic terms, plural words, category words, and short coined forms such as Acup.archi and barup.archi, alongside broader dictionary-style names like tips.archi, ladies.archi, and forces.archi. For founders, the key question is whether the word still feels credible and ownable on .archi rather than on a mainstream extension. For investors, the decision is usually about entry price versus resale uncertainty in a niche TLD. With a median ask of 34.72, price can look accessible, but quality varies widely. Prioritize names that are easy to say, contextually relevant, and unlikely to create trademark confusion.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Most value comes from clear words that fit architecture or design
+- Median ask is 34.72, so weak names can still be overpriced
+- Generic words beat obscure spellings for recall and trust
+- Check trademark exposure on branded terms like Trex or WiFi
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
