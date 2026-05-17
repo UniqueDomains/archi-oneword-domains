@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .archi one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,575 domains · **Median ask:** $34.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/archi`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | barup.archi      | available | $24.99    | —             | 82             | 2      | 6      | name.com     |
 | forces.archi     | available | $24.99    | —             | 82             | 12     | 6      | name.com     |
 | geton.archi      | available | $24.99    | —             | 82             | 10     | 6      | name.com     |
-| getup.archi      | available | $24.99    | —             | 82             | 14     | 6      | name.com     |
+| getup.archi      | available | $24.99    | —             | 82             | 15     | 6      | name.com     |
 | useit.archi      | available | $24.99    | —             | 94             | 7      | 6      | name.com     |
 | edamame.archi    | available | $24.99    | —             | 80             | 9      | 7      | name.com     |
 | watches.archi    | available | $24.99    | —             | 84             | 19     | 7      | name.com     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
