@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .archi one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,575 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,575 domains · **Median ask:** $34.72 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,575 domains · **Median ask:** $28.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/archi`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| Trex.archi       | available | $132.98   | —             | 80             | 24     | 5      | namecheap    |
-| finals.archi     | available | $24.99    | —             | 80             | 7      | 6      | name.com     |
-| barup.archi      | available | $24.99    | —             | 82             | 2      | 6      | name.com     |
-| forces.archi     | available | $24.99    | —             | 82             | 12     | 6      | name.com     |
-| geton.archi      | available | $24.99    | —             | 82             | 10     | 6      | name.com     |
-| getup.archi      | available | $24.99    | —             | 82             | 15     | 6      | name.com     |
-| useit.archi      | available | $24.99    | —             | 94             | 7      | 6      | name.com     |
-| edamame.archi    | available | $24.99    | —             | 80             | 9      | 7      | name.com     |
-| watches.archi    | available | $24.99    | —             | 84             | 19     | 7      | name.com     |
-| prompts.archi    | available | $24.99    | —             | 54             | 39     | 7      | name.com     |
-| web.archi        | resell    | —         | —             | 72             | 61     | 3      | Sav.com, LLC |
-| homes.archi      | premium   | $187.50   | —             | 86             | 34     | 5      | name.com     |
-| justin.archi     | available | $24.99    | —             | 58             | 38     | 7      | name.com     |
-| designs.archi    | premium   | $187.50   | —             | 72             | 21     | 7      | name.com     |
-| stories.archi    | available | $24.99    | —             | 58             | 36     | 7      | name.com     |
-| plans.archi      | premium   | $625      | —             | 60             | 21     | 5      | name.com     |
-| payments.archi   | available | $24.99    | —             | 58             | 33     | 8      | name.com     |
-| apartments.archi | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo     |
-| rewards.archi    | available | $24.99    | —             | 62             | 30     | 7      | name.com     |
-| studios.archi    | premium   | $123.75   | —             | 54             | 21     | 7      | name.com     |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| knowing.archi    | available | $24.99    | —             | 94             | 12     | 7      | name.com  |
+| garlic.archi     | available | $24.99    | —             | 102            | 21     | 6      | name.com  |
+| sort.archi       | available | $24.99    | —             | 96             | 18     | 4      | name.com  |
+| robin.archi      | available | $24.99    | —             | 90             | 39     | 5      | name.com  |
+| terminal.archi   | available | $24.99    | $136.99       | 104            | 37     | 8      | name.com  |
+| alate.archi      | premium   | —         | —             | 82             | 2      | 5      | —         |
+| sunhat.archi     | available | $24.99    | —             | 84             | 5      | 6      | name.com  |
+| recommend.archi  | available | $24.99    | —             | 96             | 19     | 9      | name.com  |
+| textbook.archi   | available | $24.99    | —             | 84             | 13     | 8      | name.com  |
+| acute.archi      | available | $24.99    | $136.99       | 112            | 12     | 5      | name.com  |
+| shaft.archi      | available | $24.99    | —             | 88             | 10     | 5      | name.com  |
+| Skype.archi      | premium   | —         | —             | 96             | 13     | 5      | —         |
+| ballroom.archi   | available | $24.99    | —             | 96             | 11     | 8      | name.com  |
+| leg.archi        | available | $24.99    | —             | 116            | 15     | 3      | name.com  |
+| commanding.archi | available | $24.99    | —             | 87             | 2      | 10     | name.com  |
+| fairy.archi      | available | $24.99    | —             | 90             | 25     | 5      | name.com  |
+| present.archi    | available | $24.99    | —             | 122            | 24     | 7      | name.com  |
+| scotch.archi     | available | $24.99    | —             | 86             | 14     | 6      | name.com  |
+| wide.archi       | available | $24.99    | $136.99       | 88             | 20     | 4      | name.com  |
+| tragic.archi     | available | $24.99    | —             | 80             | 9      | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
