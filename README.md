@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .archi one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,575 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,575 domains · **Median ask:** $28.09 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,575 domains · **Median ask:** $26.39 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/archi`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/archi`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ARCHI one-word domain
 
 ### Files
 
-- `archi.csv` — public CSV extract (1,000 rows)
-- `archi.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `archi.csv`, public CSV extract (1,000 rows)
+- `archi.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| knowing.archi    | available | $24.99    | —             | 94             | 12     | 7      | name.com  |
-| garlic.archi     | available | $24.99    | —             | 102            | 21     | 6      | name.com  |
-| sort.archi       | available | $24.99    | —             | 96             | 18     | 4      | name.com  |
-| robin.archi      | available | $24.99    | —             | 90             | 39     | 5      | name.com  |
-| terminal.archi   | available | $24.99    | $136.99       | 104            | 37     | 8      | name.com  |
-| alate.archi      | premium   | —         | —             | 82             | 2      | 5      | —         |
-| sunhat.archi     | available | $24.99    | —             | 84             | 5      | 6      | name.com  |
-| recommend.archi  | available | $24.99    | —             | 96             | 19     | 9      | name.com  |
-| textbook.archi   | available | $24.99    | —             | 84             | 13     | 8      | name.com  |
-| acute.archi      | available | $24.99    | $136.99       | 112            | 12     | 5      | name.com  |
-| shaft.archi      | available | $24.99    | —             | 88             | 10     | 5      | name.com  |
-| Skype.archi      | premium   | —         | —             | 96             | 13     | 5      | —         |
-| ballroom.archi   | available | $24.99    | —             | 96             | 11     | 8      | name.com  |
-| leg.archi        | available | $24.99    | —             | 116            | 15     | 3      | name.com  |
-| commanding.archi | available | $24.99    | —             | 87             | 2      | 10     | name.com  |
-| fairy.archi      | available | $24.99    | —             | 90             | 25     | 5      | name.com  |
-| present.archi    | available | $24.99    | —             | 122            | 24     | 7      | name.com  |
-| scotch.archi     | available | $24.99    | —             | 86             | 14     | 6      | name.com  |
-| wide.archi       | available | $24.99    | $136.99       | 88             | 20     | 4      | name.com  |
-| tragic.archi     | available | $24.99    | —             | 80             | 9      | 6      | name.com  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| out.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| off.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| add.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| marketplace.archi | resell    | —         | —             | high           | medium | 11     | NameCheap, Inc. |
+| flat.archi        | premium   | $123.75   | $123.75       | high           | low    | 4      | name.com        |
+| BJP.archi         | available | $24.99    | —             | medium         | low    | 3      | name.com        |
+| roman.archi       | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo        |
+| clv.archi         | available | $14.98    | $132.98       | low            | low    | 3      | namecheap       |
+| center.archi      | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo        |
+| cot.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| kingdom.archi     | premium   | $1,875    | —             | high           | low    | 7      | name.com        |
+| cup.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| dad.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| day.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| dye.archi         | available | $24.99    | —             | medium         | low    | 3      | name.com        |
+| eye.archi         | available | $24.99    | —             | medium         | low    | 3      | name.com        |
+| fee.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| fog.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| gag.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| gal.archi         | available | $24.99    | —             | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,575 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .archi domains. The set spans generic terms, plural words, category words, and short coined forms such as Acup.archi and barup.archi, alongside broader dictionary-style names like tips.archi, ladies.archi, and forces.archi. For founders, the key question is whether the word still feels credible and ownable on .archi rather than on a mainstream extension. For investors, the decision is usually about entry price versus resale uncertainty in a niche TLD. With a median ask of 34.72, price can look accessible, but quality varies widely. Prioritize names that are easy to say, contextually relevant, and unlikely to create trademark confusion.
+This list of one-word .archi domains includes 12,575 names, with 12,507 currently available and a small number in premium or resell status. Median ask sits at $26.39, and the vast majority price under $500, making this a low-cost entry point for architecture-themed one-word domains. Demand skews low across most of the set, with only 14 names reaching high or top-tier demand tiers.
 
-- Most value comes from clear words that fit architecture or design
-- Median ask is 34.72, so weak names can still be overpriced
-- Generic words beat obscure spellings for recall and trust
-- Check trademark exposure on branded terms like Trex or WiFi
+- 12,575 one-word .archi domains, 12,507 available now
+- Median ask $26.39; 11,466 domains priced under $500
+- 9,648 domains carry a modern naming style
+- 658 domains flagged launch-ready for immediate use
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
