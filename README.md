@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .archi one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,686 domains · **Median ask:** $21.48 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/archi`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| out.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
+| off.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
 | add.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
 | marketplace.archi | resell    | —         | —             | high           | medium | 11     | NameCheap, Inc. |
 | flat.archi        | premium   | $123.75   | $123.75       | high           | low    | 4      | name.com        |
@@ -82,8 +84,6 @@ print(df.head())
 | eye.archi         | available | $24.99    | —             | medium         | low    | 3      | name.com        |
 | fee.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
 | fog.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
-| gag.archi         | available | $24.99    | —             | high           | low    | 3      | name.com        |
-| gal.archi         | available | $24.99    | —             | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
