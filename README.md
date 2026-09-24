@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .archi one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,983 domains · **Median ask:** $19.48 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/archi`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | bjp.archi     | available | $24.99    | —             | medium         | low    | 3      | name.com  |
 | roman.archi   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo  |
 | bum.archi     | available | $14.98    | $132.98       | low            | low    | 3      | namecheap |
-| center.archi  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo  |
+| center.archi  | premium   | $118.80   | $118.80       | medium         | low    | 6      | namesilo  |
 | clv.archi     | available | $14.98    | $132.98       | low            | low    | 3      | namecheap |
 | baroque.archi | premium   | $118.80   | $118.80       | medium         | low    | 7      | namesilo  |
 | cot.archi     | available | $24.99    | —             | high           | low    | 3      | name.com  |
@@ -78,7 +78,7 @@ print(df.head())
 | dad.archi     | available | $24.99    | —             | high           | low    | 3      | name.com  |
 | day.archi     | available | $24.99    | —             | high           | low    | 3      | name.com  |
 | dye.archi     | available | $24.99    | —             | medium         | low    | 3      | name.com  |
-| eye.archi     | available | $24.99    | —             | medium         | low    | 3      | name.com  |
+| eye.archi     | available | $19.99    | $103.99       | low            | low    | 3      | namesilo  |
 | fee.archi     | available | $24.99    | —             | high           | low    | 3      | name.com  |
 | fog.archi     | available | $24.99    | —             | high           | low    | 3      | name.com  |
 | gag.archi     | available | $24.99    | —             | high           | low    | 3      | name.com  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ARCHI One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
