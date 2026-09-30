@@ -1,5 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 d777a8a9-a22f-4491-bb2f-9d6cad295c6f,upstream.archi,available,14.98,132.98,high,low,8,namecheap,,,12/09/2026 23:24
+492adc44-31a4-427a-ad5c-b720bff28039,glen.archi,available,13.14,83,high,low,4,spaceship,,,29/09/2026 19:03
 890846e4-3be4-431d-afb4-7cb19757f282,alcohols.archi,available,14.98,132.98,medium,low,8,namecheap,,,20/09/2026 18:31
 c37769fc-b470-42b9-8d5d-98c67de9d07b,alleyway.archi,available,19.99,103.99,medium,low,8,namesilo,,,19/09/2026 04:05
 8621dbe4-e667-4003-a16c-712c8d089b30,polished.archi,available,19.99,103.99,high,low,8,namesilo,,,27/09/2026 06:59
@@ -12,6 +13,7 @@ d0c5458a-2286-441f-bb22-f13a59aa8b4a,seeping.archi,available,14.98,132.98,medium
 18ed764d-9959-4d97-ac8c-6b32320942c6,postwar.archi,available,14.98,132.98,medium,low,7,namecheap,,,09/09/2026 00:42
 6f2aecae-e4a6-4dea-971a-c5686a139cd7,necked.archi,available,14.98,132.98,medium,low,6,namecheap,,,03/09/2026 14:40
 e399feff-ac98-4841-9987-06246777c683,chopper.archi,available,14.98,132.98,high,low,7,namecheap,,,08/09/2026 11:24
+a9880ba9-5435-42dc-a1fa-413857149527,vacancy.archi,available,18.5,,high,low,7,unstoppable,,,29/09/2026 20:34
 bccebe08-d2a0-4467-9c53-949093abe95f,blacking.archi,available,14.98,132.98,medium,low,8,namecheap,,,24/09/2026 02:49
 ade95212-5687-4dcc-b4f5-38ba2abca2b2,stripling.archi,available,14.98,132.98,medium,low,9,namecheap,,,
 355d46c3-e4e0-467f-ac0b-e264900d407a,ryan.archi,available,19.99,103.99,high,medium,4,namesilo,,,17/09/2026 00:32
@@ -20,20 +22,21 @@ fbb1e300-be49-4282-a99b-f6728378a4a4,sighted.archi,available,13.39,82.9,high,low
 53b2ca7c-25e4-4819-8d1e-16f7520723bc,negroid.archi,available,14.98,132.98,medium,low,7,namecheap,,,03/09/2026 15:14
 1c86b7d2-75d3-428b-94df-96e58fb46dc3,chessboard.archi,available,14.98,132.98,high,low,10,namecheap,,,24/09/2026 14:20
 c6df41fc-199d-41ce-ac2e-807e73a92932,evermore.archi,available,14.98,132.98,high,low,8,namecheap,,,14/09/2026 16:19
-7941c8c7-bcc0-4ff5-838c-d72ad4b5d8cb,adjuvant.archi,available,14.98,132.98,medium,low,8,namecheap,,,
-18622c60-78f0-412f-bcf1-7a8556c9dee1,files.archi,available,14.98,132.98,medium,low,5,namecheap,,,25/09/2026 18:34
+7941c8c7-bcc0-4ff5-838c-d72ad4b5d8cb,adjuvant.archi,available,14.98,132.98,high,low,8,namecheap,,,
+18622c60-78f0-412f-bcf1-7a8556c9dee1,files.archi,available,14.98,132.98,high,low,5,namecheap,,,25/09/2026 18:34
+bb216ca5-f73e-43f1-b4ed-c171301ab58c,federalism.archi,available,14.98,132.98,high,low,10,namecheap,,,29/09/2026 12:14
 b1c963c6-8048-470a-a4db-143fc8179cc3,turn.archi,available,14.98,132.98,high,low,4,namecheap,,,24/09/2026 22:27
 7ddd4164-faf5-4c85-a577-713984f5fe90,alacritous.archi,available,14.98,132.98,medium,low,10,namecheap,,,
-e1f0fb2a-4bca-4638-8ed0-3821956b096a,childhood.archi,available,24.99,,high,low,9,name.com,,,
+e1f0fb2a-4bca-4638-8ed0-3821956b096a,childhood.archi,available,19.99,103.99,high,low,9,namesilo,,,29/09/2026 08:38
 6d70300e-5c4a-4bde-bc61-71571e981922,confidante.archi,available,19.99,103.99,high,low,10,namesilo,,,24/09/2026 17:12
 095fc187-5c9b-4a0c-aa34-73bb06f14a6b,smallest.archi,available,13.14,83,medium,low,8,spaceship,,,28/09/2026 17:15
-3b767296-e804-484b-853e-a6f29f0c5d44,rode.archi,available,13.14,83,medium,low,4,spaceship,,,28/09/2026 11:10
+3b767296-e804-484b-853e-a6f29f0c5d44,rode.archi,available,13.14,83,high,low,4,spaceship,,,28/09/2026 11:10
 cc2d447f-ffe6-4107-8e05-8ea6dcf41c40,look.archi,available,19.99,103.99,high,low,4,namesilo,,,24/09/2026 21:51
 b7609250-60e2-4e67-8a85-e8fbf04ef169,appeals.archi,available,13.14,83,low,low,7,spaceship,,,28/09/2026 23:39
 550e0e03-9550-4a6b-a874-240bfceec39f,dissenter.archi,available,14.98,132.98,medium,low,9,namecheap,,,14/08/2026 12:39
 ec5163d0-a2e0-485f-8c8c-771d3998c234,ahorse.archi,available,14.98,132.98,medium,low,6,namecheap,,,
 39cb5399-b9b2-43ae-9684-2d5b686ee472,owl.archi,available,14.98,132.98,high,medium,3,namecheap,,,23/09/2026 20:08
-3766698e-bbc1-4854-ada3-29e9c4df4247,bargainer.archi,available,19.99,103.99,medium,low,9,namesilo,,,22/09/2026 05:32
+3766698e-bbc1-4854-ada3-29e9c4df4247,bargainer.archi,available,19.99,103.99,high,low,9,namesilo,,,22/09/2026 05:32
 1b20c4aa-0595-489e-9d80-7b90835f9832,audubon.archi,available,14.98,132.98,medium,low,7,namecheap,,,21/09/2026 03:14
 e9f86430-dec5-4be3-91f0-91c192ec02ba,glamour.archi,available,14.98,132.98,high,low,7,namecheap,,,21/08/2026 07:43
 d3d05745-5268-461c-b824-4d0cab59025f,tertiary.archi,available,14.98,132.98,medium,low,8,namecheap,,,
@@ -43,11 +46,10 @@ e998da06-3ded-409c-bd12-a57f5d18a9eb,programming.archi,available,18.5,,high,low,
 bdcb4df8-a274-4150-ac9b-20a2ae67915f,aback.archi,available,14.98,132.98,high,low,5,namecheap,,,13/09/2026 16:07
 b058c79f-9952-402b-a0b3-d237bda80dab,julie.archi,available,19.99,103.99,high,low,5,namesilo,,,25/09/2026 14:47
 40061db5-d462-40ba-a528-d959db1597be,toetoe.archi,available,19.99,103.99,medium,low,6,namesilo,,,20/09/2026 12:22
-16633cbb-a537-428e-9501-3634b4c9fee3,columbia.archi,available,,,high,medium,8,,,,
 dfb179ae-aa82-4ff0-a86e-52b3324e972b,ardeb.archi,available,19.99,103.99,medium,low,5,namesilo,,,20/09/2026 03:06
 943cb6dd-03e2-47d8-8399-c624fc6d59a8,owed.archi,available,19.99,103.99,medium,low,4,namesilo,,,27/09/2026 17:35
 219da6b8-fccb-46bc-89ed-d1cd3e31baf6,rubble.archi,available,13.14,83,medium,low,6,spaceship,,,28/09/2026 18:54
-0ee3e178-7cd8-46aa-97c8-aae3658470e8,thong.archi,available,24.99,,high,low,5,name.com,,,
+0ee3e178-7cd8-46aa-97c8-aae3658470e8,thong.archi,available,13.14,83,high,low,5,spaceship,,,29/09/2026 20:22
 298e5a9a-a661-474c-8c98-6ea1f54ad9bd,afrl.archi,available,19.99,103.99,medium,low,4,namesilo,,,17/09/2026 15:27
 75815cff-24bb-4718-8128-335534c0e255,laotian.archi,available,14.98,132.98,medium,low,7,namecheap,,,22/08/2026 19:36
 d7996fb2-a6bb-4169-8432-759e8e0c9e46,liked.archi,available,19.99,103.99,high,low,5,namesilo,,,25/09/2026 13:43
@@ -57,7 +59,7 @@ b3e23d6a-7d0b-4e24-aca4-5cdd5011a6bf,balalaika.archi,available,14.98,132.98,medi
 f0bb095f-2782-474f-8f47-971da7ba3bc1,chemistry.archi,available,19.99,103.99,high,low,9,namesilo,,,28/09/2026 12:10
 b5bd967e-4145-4b5a-b370-a9a43622500b,affairs.archi,available,19.99,103.99,high,low,7,namesilo,,,17/09/2026 14:09
 afeb7bd3-b1cc-4a8a-89d3-cfc001716d30,adverb.archi,available,19.99,103.99,high,low,6,namesilo,,,17/09/2026 10:43
-425beb6c-d840-445a-a212-a9990a111036,blistering.archi,available,14.98,132.98,medium,low,10,namecheap,,,
+425beb6c-d840-445a-a212-a9990a111036,blistering.archi,available,14.98,132.98,high,low,10,namecheap,,,
 f14452b1-6493-4bb5-ab7f-7ef0b5a075e8,tragicomic.archi,available,14.98,132.98,medium,low,10,namecheap,,,11/09/2026 18:46
 a28655be-9577-4c49-9f65-9d540f5459b1,argent.archi,available,14.98,132.98,medium,low,6,namecheap,,,06/08/2026 17:51
 fdb7115f-9050-48dc-bc33-a91e2022e6c7,streamer.archi,available,14.98,132.98,high,low,8,namecheap,,,08/08/2026 13:57
@@ -74,6 +76,7 @@ b89493e5-63ab-4767-8548-fd5e01c07499,credulous.archi,available,14.98,132.98,medi
 18ac081b-d229-4dae-8d62-8137983c9644,palladian.archi,available,14.98,132.98,high,low,9,namecheap,,,04/09/2026 23:44
 fd1783cb-734b-4082-82a5-f483f1f9a593,marcia.archi,available,19.99,103.99,high,low,6,namesilo,,,28/09/2026 03:56
 9b0e035b-3f12-424f-9c8c-9343804d9520,remove.archi,available,24.99,136.99,high,low,6,name.com,,,21/09/2026 14:40
+2692b098-5901-4a40-92b3-065c0981ced8,embraced.archi,available,13.39,82.9,medium,low,8,porkbun,,,29/09/2026 23:57
 d8523b1a-f6cf-463b-bd43-4b809c14b89c,romanist.archi,available,14.98,132.98,medium,low,8,namecheap,,,05/09/2026 01:28
 5d00474f-ba5c-4ee3-a878-411bc7353590,soothing.archi,available,14.98,132.98,high,low,8,namecheap,,,07/08/2026 07:40
 706ad7b2-1885-4e11-aa63-9852db2b74f8,gradable.archi,available,14.98,132.98,medium,low,8,namecheap,,,08/09/2026 03:31
@@ -81,6 +84,7 @@ bfe9c094-51d9-4d53-9053-fdde577e147e,burlington.archi,available,14.98,132.98,hig
 3b804fa4-b81e-474e-a272-7417000e0433,gregorio.archi,available,24.99,,high,low,8,name.com,,,
 c9e02056-a6f0-45c7-a8b2-41bb11de39f2,posterior.archi,available,14.98,132.98,medium,low,9,namecheap,,,09/08/2026 11:12
 4a966e14-6ad3-408c-b8a6-afe7125af7f4,outdoors.archi,available,14.98,132.98,high,low,8,namecheap,,,21/09/2026 23:54
+783e3bd7-1ad2-402f-bcc3-7acc8929e9f1,iga.archi,available,13.14,83,medium,low,3,spaceship,,,29/09/2026 13:05
 29e8de6c-0f32-4eb7-a1c5-1715124fae92,halfway.archi,available,14.98,132.98,high,low,7,namecheap,,,11/08/2026 23:56
 805e1a2b-6a15-445c-9b56-4ecd5ace06bb,muslim.archi,available,14.98,132.98,high,medium,6,namecheap,,,22/08/2026 10:45
 ae02f110-622d-4601-9f56-056f7a368058,absolutely.archi,available,14.98,132.98,high,low,10,namecheap,,,28/09/2026 11:36
@@ -95,16 +99,20 @@ ae02f110-622d-4601-9f56-056f7a368058,absolutely.archi,available,14.98,132.98,hig
 3ad21d8f-8512-47d3-8efd-6a60373a2e70,fender.archi,available,13.14,83,high,low,6,spaceship,,,29/09/2026 00:29
 0cb9b622-4151-409f-ba06-6a0d49beef4d,antithetic.archi,available,14.98,132.98,medium,low,10,namecheap,,,05/08/2026 19:49
 7b068a29-d929-43c1-ab1a-caae96e853f2,northeast.archi,available,13.14,83,medium,low,9,spaceship,,,28/09/2026 16:59
+041b993c-0b18-4d87-855d-16396b7cdb92,tits.archi,available,14.98,132.98,high,low,4,namecheap,,,29/09/2026 21:14
 17ee2240-dd13-4c0c-bf3a-fbd44755f688,himalayan.archi,available,14.98,132.98,high,low,9,namecheap,,,21/08/2026 09:25
 bac78f5e-bb8b-40ea-b4c3-0c8e7dc8846e,tacking.archi,available,19.99,103.99,medium,low,7,namesilo,,,22/09/2026 12:46
 af1569a5-e8e6-40fe-8d76-d1f5be72b1c5,bated.archi,available,14.98,132.98,medium,low,5,namecheap,,,09/08/2026 00:22
 bfa4be7b-9c3a-497d-b723-c0e0cacdea7e,razor.archi,available,24.99,,high,low,5,name.com,,,
 5fc62eb9-1924-4b6e-adfc-901661d64400,attar.archi,available,14.98,132.98,medium,low,5,namecheap,,,20/09/2026 19:21
 b1bcf463-dad2-4cb3-9aa2-bd69e681737f,aggregator.archi,available,19.99,103.99,high,low,10,namesilo,,,17/09/2026 17:29
+97bd546d-c046-4444-80e6-b21d85d424dc,lair.archi,available,15.99,177.99,high,low,4,godaddy,,,30/09/2026 01:19
+f7cebe74-43fc-46be-ba55-a658a137d489,curriculum.archi,available,19.99,103.99,high,low,10,namesilo,,,29/09/2026 06:26
 7bee0925-dd06-49df-9f33-635aad2a39f0,sleepless.archi,available,14.98,132.98,medium,low,9,namecheap,,,22/08/2026 07:24
 1f9b0422-cc40-42d9-b76f-9d70e6c81128,boiling.archi,available,14.98,132.98,high,low,7,namecheap,,,14/09/2026 00:51
 f5baa22b-f85f-4d43-bbbd-13ec5845a755,truer.archi,available,19.99,103.99,medium,low,5,namesilo,,,20/09/2026 05:56
 32f207b8-d529-4936-9741-7bcebe0c5403,fulgurant.archi,available,24.99,136.99,medium,low,9,name.com,,,13/08/2026 18:59
+11e28d70-3504-4488-9698-013ac49f4973,safari.archi,available,13.14,83,high,low,6,spaceship,,,29/09/2026 07:19
 04df2d39-0aa0-4297-8a1b-69aba89cd651,ella.archi,available,14.98,132.98,high,low,4,namecheap,,,25/09/2026 21:52
 68e1002f-93ac-411f-8fa9-c1118d7a4f88,alleviant.archi,available,14.98,132.98,medium,low,9,namecheap,,,04/09/2026 23:46
 24635473-4344-4a90-a392-c903785d2632,file.archi,available,14.98,132.98,high,medium,4,namecheap,,,24/09/2026 21:00
@@ -123,6 +131,8 @@ d2e8fc67-e3fe-47e0-b367-9bca8c10c06a,bond.archi,available,13.14,83,high,medium,4
 71d6f963-7c86-46fa-bd17-1841a9693b37,annulate.archi,available,14.98,132.98,high,low,8,namecheap,,,
 db8d71b2-f640-48b6-8493-0f9ca5af7b82,ament.archi,available,14.98,132.98,medium,low,5,namecheap,,,18/09/2026 18:57
 ac25c4ec-c302-4717-a0da-d047ba4c9911,faded.archi,available,19.99,103.99,high,low,5,namesilo,,,22/09/2026 11:25
+af01efb1-c38a-4dee-913e-c5c20c16f3e4,cbe.archi,available,14.98,132.98,high,low,3,namecheap,,,29/09/2026 09:19
+08bd1070-ce9d-4e32-b24f-d4902cdc9527,haunt.archi,available,19.99,103.99,high,low,5,namesilo,,,29/09/2026 07:08
 ad974bd5-14b2-428d-b096-d63fd9e64331,lawrence.archi,available,19.99,103.99,high,low,8,namesilo,,,25/09/2026 04:32
 db479494-f2c2-4502-ac66-aba89a4578ac,reflects.archi,available,19.99,103.99,medium,low,8,namesilo,,,17/09/2026 15:27
 6a8be3ce-3e42-43b8-8db9-8ce1806837c1,protocol.archi,available,19.99,103.99,high,low,8,namesilo,,,24/09/2026 16:37
@@ -131,9 +141,11 @@ db479494-f2c2-4502-ac66-aba89a4578ac,reflects.archi,available,19.99,103.99,mediu
 973abb44-2d1b-4fc0-8dc2-ac0e4b19b7ae,marvellous.archi,available,19.99,103.99,high,low,10,namesilo,,,25/09/2026 00:14
 b8b891ff-8817-4ee0-8e0a-cf612b92a1e0,pentagon.archi,available,13.14,83,high,low,8,spaceship,,,28/09/2026 06:34
 a8060053-b310-4fea-871a-f7f2605f53a9,markus.archi,available,13.14,83,high,low,6,spaceship,,,28/09/2026 21:58
+f28206d6-5264-4f9c-90d1-0dc5dd45fded,guildford.archi,available,19.99,103.99,medium,low,9,namesilo,,,29/09/2026 15:26
 7d58d08a-5852-4eae-9b08-b7b0692ca661,russet.archi,available,14.98,132.98,high,low,6,namecheap,,,09/09/2026 20:06
-f72221ea-9c98-4abc-8bfc-95d252128a44,auk.archi,available,19.99,103.99,medium,low,3,namesilo,,,21/09/2026 04:07
+f72221ea-9c98-4abc-8bfc-95d252128a44,auk.archi,available,19.99,103.99,high,low,3,namesilo,,,21/09/2026 04:07
 176ae0ab-7f95-4012-810f-bcd53fd8b9e3,scrappy.archi,available,14.98,132.98,high,low,7,namecheap,,,09/09/2026 23:48
+5e40f0d1-a621-49de-86ef-2abec2219124,cmc.archi,available,14.98,132.98,high,low,3,namecheap,,,29/09/2026 21:38
 0b2f34fb-dbef-48e4-b14f-a982979e1635,issues.archi,available,14.98,132.98,medium,low,6,namecheap,,,25/09/2026 21:11
 8db734d8-a764-4561-8300-89d3f7af4d07,platelike.archi,available,14.98,132.98,high,low,9,namecheap,,,08/09/2026 20:17
 3f472ed2-b06d-4844-bd7e-e6f1ace90b70,periodical.archi,available,14.98,132.98,high,low,10,namecheap,,,08/09/2026 17:13
@@ -144,6 +156,7 @@ cb75031f-e018-40d6-a13d-94a94aaf0f27,classics.archi,available,19.99,103.99,high,
 9f8b018d-5284-44d4-ab56-ec1d95a3a251,tapered.archi,available,14.98,132.98,medium,low,7,namecheap,,,03/09/2026 13:29
 7b4ccfb0-da34-4fc4-a4c8-95686369a7dd,tagged.archi,available,14.98,132.98,high,low,6,namecheap,,,22/08/2026 17:17
 45ce6915-279f-44b8-9caf-d0f4df3ba808,unq.archi,available,19.99,103.99,medium,low,3,namesilo,,,20/09/2026 22:06
+f3f684b7-4204-4fc4-b790-ba1fccbbbeea,brawl.archi,available,19.99,103.99,high,low,5,namesilo,,,29/09/2026 11:45
 b006fafd-5bd4-4fb8-9996-fb9e25743726,autodidact.archi,available,19.99,103.99,high,low,10,namesilo,,,21/09/2026 06:15
 c2254f6f-dfb3-4eec-81da-1aa8774e0bfd,minute.archi,available,14.98,132.98,high,low,6,namecheap,,,25/09/2026 09:28
 b491438d-c49a-40e9-980f-dc795aca5c80,bipolar.archi,available,14.98,132.98,high,low,7,namecheap,,,10/08/2026 05:30
@@ -160,10 +173,11 @@ a3208943-cee6-4157-bb79-e0a7aa979114,keister.archi,available,14.98,132.98,low,lo
 074373dc-7741-4dd7-b1d4-45480fbd85c7,faster.archi,available,14.98,132.98,high,low,6,namecheap,,,14/09/2026 17:46
 f09904e6-7e6e-4f31-8319-5a9fe86f2de0,esp.archi,available,19.99,103.99,high,low,3,namesilo,,,24/09/2026 15:12
 520e815c-8056-4fbb-8ac1-083565adb01e,laughed.archi,available,13.14,83,medium,low,7,spaceship,,,28/09/2026 12:59
+b46b1e73-c352-4d6d-a5a8-ddb6ad438d59,contributed.archi,available,19.99,103.99,medium,low,11,namesilo,,,29/09/2026 17:13
 619088b4-936d-46d6-851a-68f4409e8d05,bliss.archi,available,19.99,103.99,high,medium,5,namesilo,,,24/09/2026 06:14
 5233c67a-5300-487a-b6bf-47daf12ad567,thirteen.archi,available,19.99,103.99,high,low,8,namesilo,,,21/09/2026 11:32
 b10aca11-1b4d-42bf-b6a4-32bf9f933354,lungs.archi,available,19.99,103.99,medium,low,5,namesilo,,,27/09/2026 02:43
-44152201-bbd2-459f-84bb-965cae86740a,bookable.archi,available,14.98,132.98,medium,low,8,namecheap,,,10/08/2026 19:04
+44152201-bbd2-459f-84bb-965cae86740a,bookable.archi,available,14.98,132.98,high,low,8,namecheap,,,10/08/2026 19:04
 939dd359-aadc-4696-8580-c40fe3c247cc,vice.archi,available,24.99,,high,low,4,name.com,,,
 75906116-fa22-4874-8a07-cb993bb4e437,feasible.archi,available,14.98,132.98,high,low,8,namecheap,,,17/08/2026 16:48
 9d283b18-5c7b-4ae2-9a11-476d53c73e71,checkbook.archi,available,14.98,132.98,high,low,9,namecheap,,,24/09/2026 13:57
@@ -177,6 +191,7 @@ d8a3f411-a420-4801-a2c7-bf54207a70fc,weaver.archi,available,19.99,103.99,high,lo
 75d354fa-7382-48e7-a240-c4c76e824de0,ltd.archi,available,19.99,103.99,high,low,3,namesilo,,,25/09/2026 11:58
 31f7a4a5-b4f6-49f2-a1dd-72dc90006df1,disappointing.archi,available,19.99,103.99,medium,low,13,namesilo,,,28/09/2026 07:09
 dcf567c4-32c8-4025-8b25-d7e8160afdeb,sweet.archi,available,13.14,83,high,low,5,spaceship,,,28/09/2026 15:21
+2aea2618-6e35-4b84-add0-3c576ffc9f9d,packaging.archi,available,13.14,83,high,low,9,spaceship,,,29/09/2026 13:38
 5541a131-d6ab-4a90-a27a-774c6b8fd612,hanker.archi,available,14.98,132.98,medium,low,6,namecheap,,,24/08/2026 08:57
 67a3ad56-60a5-4c8a-91c2-b01d21372e1e,unipolar.archi,available,14.98,132.98,medium,low,8,namecheap,,,12/09/2026 13:46
 657caa53-82d7-4e95-95b4-c237bd969c04,martian.archi,available,14.98,132.98,high,low,7,namecheap,,,24/08/2026 16:37
@@ -187,10 +202,12 @@ d9c491a7-8ee6-4cfa-9db7-1c0ccc86f597,bible.archi,available,18.5,,high,medium,5,u
 bddd07c2-a67d-4a99-b57a-45898be7ff70,basket.archi,available,19.99,103.99,high,low,6,namesilo,,,29/09/2026 01:26
 5122f397-23f4-48ac-88fb-77eb160a6ea4,deciding.archi,available,14.98,132.98,high,low,8,namecheap,,,13/08/2026 21:23
 50f86260-e24b-47cd-82a5-bab3de2c0681,bellyache.archi,available,14.98,132.98,medium,low,9,namecheap,,,23/09/2026 00:26
+3330483a-f544-4aef-a98a-fe18b82dc6f5,advertise.archi,available,18.5,,high,low,9,unstoppable,,,29/09/2026 20:39
 b2b4b0c0-f7d4-48dc-beaa-57875eb048a2,baster.archi,available,19.99,103.99,medium,low,6,namesilo,,,22/09/2026 12:47
 398ff3e0-1c0d-448b-8ce8-3f6cd927b540,por.archi,available,18.5,,medium,low,3,unstoppable,,,28/09/2026 21:27
 d0314e95-8794-405a-afce-5acfba411860,surmise.archi,available,14.98,132.98,high,low,7,namecheap,,,11/09/2026 04:51
 601854a2-c292-4296-86fe-bcde635068a7,accidents.archi,available,19.99,103.99,medium,low,9,namesilo,,,28/09/2026 05:03
+44d3f98d-8fae-4141-8461-d5094fb2ea3e,sylvester.archi,available,14.98,132.98,high,low,9,namecheap,,,29/09/2026 15:28
 e43d8f18-8af8-445f-8ad5-bb0f786a1cf2,ways.archi,available,24.99,,high,low,4,name.com,,,
 2260edd0-cc14-4dd6-a025-af42b23d53d9,volitional.archi,available,14.98,132.98,medium,low,10,namecheap,,,13/09/2026 06:50
 04e58be4-002c-4406-b2ad-2e25bc3d7162,operators.archi,available,13.39,82.9,medium,low,9,porkbun,,,28/09/2026 09:08
@@ -198,12 +215,14 @@ b0e085b5-3584-459b-b0a4-3ae86bcf9277,illume.archi,available,14.98,132.98,high,lo
 d006b143-1a96-4f31-b5f0-0a147f7fe253,nonviable.archi,available,14.98,132.98,medium,low,9,namecheap,,,03/09/2026 21:02
 23b01d0a-c008-4cbb-a7f5-f1de78f435ca,benito.archi,available,14.98,132.98,medium,low,6,namecheap,,,27/09/2026 19:23
 85826b1f-4c80-401b-ae06-b3fe6f411357,catches.archi,available,13.14,83,medium,low,7,spaceship,,,28/09/2026 04:27
-82b0d44c-419a-4be3-b1a8-3a7fedb88e96,slot.archi,available,24.99,,high,low,4,name.com,,,
+82b0d44c-419a-4be3-b1a8-3a7fedb88e96,slot.archi,available,13.14,83,high,medium,4,spaceship,,,29/09/2026 18:36
 c8897bfe-8e1e-4b02-850d-9ae3c7997700,exogenous.archi,available,14.98,132.98,medium,low,9,namecheap,,,17/08/2026 17:33
 a0d49309-b75b-4870-a020-34c9edf4c207,frightened.archi,available,14.98,132.98,medium,low,10,namecheap,,,18/08/2026 15:37
+0f44d127-78ac-4c23-8415-f5ac529421ad,blankets.archi,available,13.14,83,medium,low,8,spaceship,,,29/09/2026 05:14
 ef7a5ec8-4e15-4009-95d5-fa95f30cc7cf,regarded.archi,available,24.99,,high,low,8,name.com,,,
 66db09a6-1cd0-4d06-a4c7-281973d99084,lxiv.archi,available,14.98,132.98,medium,low,4,namecheap,,,
 9c06066c-39b9-49c8-9612-58185f14eae3,unnoticed.archi,available,14.98,132.98,medium,low,9,namecheap,,,12/09/2026 16:02
+4c4815c8-fa05-43ac-abda-9cf0fcff6819,oldenburg.archi,available,13.14,83,high,low,9,spaceship,,,29/09/2026 06:22
 9c743b41-2caf-4fd4-b634-71a862f5a769,utile.archi,available,14.98,132.98,medium,low,5,namecheap,,,13/09/2026 00:01
 0660d8b5-2398-4e10-b5dd-47456247c699,gusts.archi,available,19.99,103.99,medium,low,5,namesilo,,,20/09/2026 20:54
 3c7c4e48-dd53-425b-8b6c-fa1b76015b88,giver.archi,available,19.99,103.99,high,low,5,namesilo,,,23/09/2026 10:44
@@ -211,9 +230,9 @@ ef7a5ec8-4e15-4009-95d5-fa95f30cc7cf,regarded.archi,available,24.99,,high,low,8,
 aa1a0900-9577-471f-8eb1-f9cd50f28524,alosa.archi,available,19.99,103.99,medium,low,5,namesilo,,,18/09/2026 13:26
 1347544d-8afd-420b-b266-117919b2b6f5,christie.archi,available,19.99,103.99,high,low,8,namesilo,,,17/09/2026 16:30
 9a5a941e-e0a7-4e5b-aba8-ec346b2be295,interior.archi,premium,640,640,high,low,8,namesilo,,,25/09/2026 09:38
-d68ad538-882a-4ac8-b997-dad19b9e7fa6,jacks.archi,available,24.99,,high,low,5,name.com,,,
+d68ad538-882a-4ac8-b997-dad19b9e7fa6,jacks.archi,available,13.14,83,high,low,5,spaceship,,,30/09/2026 00:29
 cd2241b6-3585-419d-9e56-3e06562f1160,registration.archi,available,24.99,,high,low,12,name.com,,,
-dcb1d759-171f-4952-b8a6-f3dd70a48f8c,analgesia.archi,available,19.99,103.99,medium,low,9,namesilo,,,19/09/2026 01:49
+dcb1d759-171f-4952-b8a6-f3dd70a48f8c,analgesia.archi,available,19.99,103.99,high,low,9,namesilo,,,19/09/2026 01:49
 36176228-3207-446f-a5c0-7ed56caf1c53,hieratic.archi,available,14.98,132.98,medium,low,8,namecheap,,,21/08/2026 08:24
 3ead86a6-e34a-44ce-8574-6bcc55931cb7,peso.archi,available,14.98,132.98,high,low,4,namecheap,,,24/09/2026 14:37
 067bdd6c-54cb-455b-b1d0-041a59125a96,stimulating.archi,available,18.5,,medium,low,11,unstoppable,,,28/09/2026 21:23
@@ -227,12 +246,15 @@ c3fee494-c2fb-4ec2-830c-09ac5f0f57de,ultrasonic.archi,available,14.98,132.98,hig
 471dd06a-ed29-48ae-a73e-2b6251df04b9,gallo.archi,available,19.99,103.99,medium,low,5,namesilo,,,28/09/2026 23:17
 e5a51e7c-33d6-4aad-aa1e-333be9b4f32e,descending.archi,available,18.5,,medium,low,10,unstoppable,,,28/09/2026 21:15
 2905ee9f-eaff-4240-8bde-856c175f461d,crusted.archi,available,14.98,132.98,medium,low,7,namecheap,,,13/08/2026 09:22
+1a023a01-b229-4624-a2fe-4ecf1901627a,consistency.archi,available,18.5,,high,low,11,unstoppable,,,29/09/2026 16:04
 f1b6b634-f578-4c26-b3fb-10be00b13b01,unvented.archi,available,14.98,132.98,medium,low,8,namecheap,,,12/09/2026 22:11
 ae4a5ded-c7d3-4eb5-ad82-2baf4e470611,allusion.archi,available,19.99,103.99,high,low,8,namesilo,,,18/09/2026 12:15
 d9cee7f5-2e61-4482-97ec-2eba45abcb1e,lxv.archi,available,14.98,132.98,medium,low,3,namecheap,,,
+d2d0326c-abe5-47c6-b72f-2c4330ff1d75,prakash.archi,available,13.14,83,medium,low,7,spaceship,,,29/09/2026 15:19
 44ad681c-de1b-47a9-a28d-3cc65906bd4c,marlowe.archi,available,19.99,103.99,medium,low,7,namesilo,,,28/09/2026 18:43
+0abedfc3-b797-491b-8e28-07322439c223,identities.archi,available,19.99,103.99,medium,low,10,namesilo,,,29/09/2026 17:14
 4f7962f5-f1b4-40cf-a47b-d21f154c111d,peritoneal.archi,available,14.98,132.98,medium,low,10,namecheap,,,08/09/2026 17:25
-ddfb50cc-cc61-4473-9ef0-824b0c36446a,macleod.archi,available,15.99,177.99,medium,low,7,godaddy,,,28/09/2026 02:12
+ddfb50cc-cc61-4473-9ef0-824b0c36446a,macleod.archi,available,15.99,177.99,high,low,7,godaddy,,,28/09/2026 02:12
 a78b3bdd-d5d6-4adb-9b92-3d09f6b4c18c,unlikely.archi,available,14.98,132.98,high,low,8,namecheap,,,21/08/2026 23:08
 2c0c290f-716b-4746-8904-bf361993c99d,force.archi,available,19.99,103.99,high,low,5,namesilo,,,24/09/2026 23:13
 816c2e27-c4fc-485a-98f3-590406e0ad24,woolf.archi,available,19.99,103.99,medium,low,5,namesilo,,,17/09/2026 07:19
@@ -240,14 +262,16 @@ f6437329-9c54-4615-afdd-3b36ab72da98,amateur.archi,available,13.39,82.9,high,low
 a3b9268f-cc50-43d2-99b5-e27200c10c2c,bet.archi,available,19.99,103.99,high,medium,3,namesilo,,,23/09/2026 10:50
 7a0987e8-20f3-488b-92cb-e07048aa6a8f,bilgewater.archi,available,14.98,132.98,medium,low,10,namecheap,,,21/09/2026 23:46
 218b8129-9623-4d0d-899e-c94768ffa477,hardest.archi,available,13.39,82.9,low,low,7,porkbun,,,28/09/2026 12:52
-a9806c12-545b-4f71-b5f3-55fa02c09d5c,difficulty.archi,available,24.99,,high,low,10,name.com,,,
-e2b478b9-11a6-40d7-8be6-69672e7cb523,democracy.archi,available,24.99,,high,low,9,name.com,,,
+a9806c12-545b-4f71-b5f3-55fa02c09d5c,difficulty.archi,available,19.99,103.99,high,low,10,namesilo,,,29/09/2026 14:54
+e2b478b9-11a6-40d7-8be6-69672e7cb523,democracy.archi,available,18.5,,high,low,9,unstoppable,,,29/09/2026 13:54
 a0cf3c6e-a57d-42b8-af95-3a8991f35579,proofs.archi,available,19.99,103.99,medium,low,6,namesilo,,,18/09/2026 06:55
 bbedc80b-7620-4c80-b922-2c2b1c2df54f,completed.archi,available,19.99,103.99,high,low,9,namesilo,,,23/09/2026 17:22
 dd1dc1b6-c211-4ef5-9c09-d3cb6af69c79,zachary.archi,available,19.99,103.99,high,low,7,namesilo,,,28/09/2026 11:58
-719e9a38-b983-4522-8071-4782ae0c9bd3,pompom.archi,available,14.98,132.98,medium,low,7,namecheap,,,
+719e9a38-b983-4522-8071-4782ae0c9bd3,pompom.archi,available,14.98,132.98,high,low,7,namecheap,,,
+756f523e-b853-4e10-9aa5-14c0235b7e9c,funnel.archi,available,18.5,,high,low,6,unstoppable,,,29/09/2026 12:26
 3567400d-62c4-47ba-9f7e-7c6343e0a09f,commander.archi,available,19.99,103.99,high,low,9,namesilo,,,17/09/2026 22:14
 2e497571-b015-4175-b292-91124f8516dc,antigenic.archi,available,14.98,132.98,medium,low,9,namecheap,,,
+c7385786-267d-4712-8750-37328d28bf9e,telugu.archi,available,18.5,,high,low,6,unstoppable,,,29/09/2026 20:30
 d84a65fd-92cb-4370-8655-d8ba0081fc47,amnion.archi,available,19.99,103.99,medium,low,6,namesilo,,,18/09/2026 22:24
 0f2b5d0e-30c4-47f9-af14-2b7dd3cd6e5c,sublunar.archi,available,14.98,132.98,medium,low,8,namecheap,,,12/08/2026 08:27
 3b6ffe2d-b407-432a-9a77-9cd3c0e9e28e,rattled.archi,available,14.98,132.98,medium,low,7,namecheap,,,18/08/2026 09:33
@@ -260,37 +284,40 @@ c82e3f8e-d653-4239-9569-d5e1615083af,foote.archi,available,13.39,82.9,medium,low
 3b09040f-0545-467e-a9e2-3de407543ab0,stunner.archi,available,14.98,132.98,high,low,7,namecheap,,,22/08/2026 16:40
 f95aff9a-9527-487f-939b-071f0b12e276,calamitous.archi,available,14.98,132.98,medium,low,10,namecheap,,,11/08/2026 13:28
 487d1401-20eb-4dcc-8864-b149c9b8074f,unanimous.archi,available,14.98,132.98,high,low,9,namecheap,,,12/08/2026 22:33
-f4a9e57c-244d-439e-96ec-d3405bfbf1f9,baht.archi,available,19.99,103.99,medium,low,4,namesilo,,,21/09/2026 18:46
+f4a9e57c-244d-439e-96ec-d3405bfbf1f9,baht.archi,available,19.99,103.99,high,low,4,namesilo,,,21/09/2026 18:46
+425a3c70-bff5-4900-9f09-fa531d361a8d,raced.archi,available,14.98,132.98,high,low,5,namecheap,,,30/09/2026 00:22
 b79d16a2-ba93-4a73-98d2-054c99f3f19c,gayle.archi,available,13.14,83,medium,low,5,spaceship,,,29/09/2026 04:04
 df92648d-a09a-4965-b7c2-561ae2575158,polyester.archi,available,24.99,,high,low,9,name.com,,,
 8f87401c-4ef4-4009-a24a-4fc22ff01404,pleading.archi,available,14.98,132.98,medium,low,8,namecheap,,,09/08/2026 15:21
-6a40f4dc-a9a7-4a67-8d15-510b67dffe91,croat.archi,available,14.98,132.98,medium,low,5,namecheap,,,13/08/2026 07:34
+6a40f4dc-a9a7-4a67-8d15-510b67dffe91,croat.archi,available,14.98,132.98,high,low,5,namecheap,,,13/08/2026 07:34
 0e0a1dba-dfab-44cb-a772-21d4d8ce571b,colonised.archi,available,14.98,132.98,medium,low,9,namecheap,,,12/08/2026 17:25
 18a85e92-fa16-4a28-8455-44ca831ffc1e,optically.archi,available,14.98,132.98,medium,low,9,namecheap,,,15/09/2026 18:03
 9f192267-4872-4f76-9bef-00101297d15b,kerala.archi,available,13.14,83,medium,low,6,spaceship,,,28/09/2026 16:15
 e0f5db15-ecee-421f-acfe-e5fc21afed9a,unconfused.archi,available,14.98,132.98,medium,low,10,namecheap,,,12/09/2026 01:27
-06baff15-556e-4beb-b999-8196a8e05eec,wong.archi,available,19.99,103.99,medium,low,4,namesilo,,,26/09/2026 03:13
-ce59ea75-d90c-455b-9aba-d8fd46351c3e,feminism.archi,available,24.99,,high,low,8,name.com,,,
-9f1a3407-c5b6-4dff-be6e-cb9486021b47,classroom.archi,available,24.99,,high,low,9,name.com,,,
+06baff15-556e-4beb-b999-8196a8e05eec,wong.archi,available,19.99,103.99,high,low,4,namesilo,,,26/09/2026 03:13
+ce59ea75-d90c-455b-9aba-d8fd46351c3e,feminism.archi,available,13.14,83,high,low,8,spaceship,,,29/09/2026 19:12
+9f1a3407-c5b6-4dff-be6e-cb9486021b47,classroom.archi,available,19.99,103.99,high,low,9,namesilo,,,29/09/2026 09:53
 d2d67af7-6476-4a67-97e0-9ba71b8772e6,prying.archi,available,14.98,132.98,medium,low,6,namecheap,,,03/09/2026 21:52
-87c3a077-6e62-4a2b-b6be-59371fde07fa,venture.archi,available,19.99,103.99,high,low,7,namesilo,,,25/09/2026 03:21
+87c3a077-6e62-4a2b-b6be-59371fde07fa,venture.archi,available,18.5,103.99,high,medium,7,unstoppable,,,29/09/2026 06:12
 45859d4d-5393-4221-a7de-a64bc1b8050e,hangdog.archi,available,14.98,132.98,medium,low,7,namecheap,,,20/08/2026 23:41
+376bb598-ace8-446d-a462-4c833a877f28,kangaroo.archi,available,19.99,103.99,high,low,8,namesilo,,,29/09/2026 07:23
 2cd2d251-62a1-4c60-8293-afa393e54c70,sully.archi,available,14.98,132.98,medium,low,5,namecheap,,,24/08/2026 12:51
 6d2aa4f9-a81e-4fb4-877b-f90c234d2f81,cassidy.archi,available,19.99,103.99,high,low,7,namesilo,,,26/09/2026 03:43
 ead1b93a-9932-4db7-8c66-c4c63b76724e,chimerical.archi,available,14.98,132.98,medium,low,10,namecheap,,,12/08/2026 05:38
 75a41234-0b29-476e-a0de-66368e12c302,hamas.archi,available,14.98,132.98,medium,low,5,namecheap,,,28/09/2026 09:59
-088a980e-6fdb-4b6e-ada6-36ad76935b8d,agronomist.archi,available,14.98,132.98,medium,low,10,namecheap,,,17/09/2026 19:41
+088a980e-6fdb-4b6e-ada6-36ad76935b8d,agronomist.archi,available,14.98,132.98,high,low,10,namecheap,,,17/09/2026 19:41
 805b13c2-4f6b-4db9-afbc-210427bf5272,furled.archi,available,14.98,132.98,medium,low,6,namecheap,,,18/08/2026 18:44
 b33b31ba-9dd0-49a2-af3a-90e230ad5339,troops.archi,available,19.99,103.99,high,low,6,namesilo,,,25/09/2026 23:43
 fcd4e3e8-0f3c-4c15-8ae4-57eef303afa6,ellsworth.archi,available,19.99,103.99,medium,low,9,namesilo,,,27/09/2026 13:20
 0aee2c6a-efd1-4dd8-89ac-a0e32d7ee3f7,indigent.archi,available,14.98,132.98,medium,low,8,namecheap,,,14/08/2026 04:34
-e3229528-55e0-422c-9de9-27c0c8bd8f42,retraction.archi,available,14.98,132.98,medium,low,10,namecheap,,,16/09/2026 15:59
+e3229528-55e0-422c-9de9-27c0c8bd8f42,retraction.archi,available,14.98,132.98,high,low,10,namecheap,,,16/09/2026 15:59
 fc3f09ed-5c44-4cd7-aa69-70c933da38de,hedonic.archi,available,14.98,132.98,medium,low,7,namecheap,,,21/08/2026 05:52
-ff27fd54-c47f-42a2-bddd-f47d12f3e9ac,diligence.archi,available,24.99,,high,low,9,name.com,,,
+1533efb5-7c7a-4acd-9f4f-3055f981dae1,brno.archi,available,18.5,,high,low,4,unstoppable,,,29/09/2026 18:06
+ff27fd54-c47f-42a2-bddd-f47d12f3e9ac,diligence.archi,available,19.99,103.99,high,low,9,namesilo,,,29/09/2026 14:59
 c4181d3c-b234-4df9-b686-e94474dd898c,taunton.archi,available,19.99,103.99,medium,low,7,namesilo,,,28/09/2026 05:05
-e9a2b36f-8fd0-4e36-88aa-4f92ab6f6093,destiny.archi,available,24.99,,high,low,7,name.com,,,
+e9a2b36f-8fd0-4e36-88aa-4f92ab6f6093,destiny.archi,available,13.39,82.9,high,low,7,porkbun,,,29/09/2026 09:18
 34e6956c-7bbe-47a5-99e4-37974313ff16,photographs.archi,available,19.99,103.99,high,low,11,namesilo,,,27/09/2026 09:34
-a00a7357-ac95-4e15-b0f7-33913cf532d1,genu.archi,available,19.99,103.99,medium,low,4,namesilo,,,20/09/2026 11:29
+a00a7357-ac95-4e15-b0f7-33913cf532d1,genu.archi,available,19.99,103.99,high,low,4,namesilo,,,20/09/2026 11:29
 3f5d0c93-1733-42e1-b711-9b110eb53a6b,jabiru.archi,available,19.99,103.99,medium,low,6,namesilo,,,23/09/2026 23:50
 1a9afc4e-ae4b-41d3-8017-35e3f87b61ea,underdone.archi,available,14.98,132.98,medium,low,9,namecheap,,,12/09/2026 07:24
 f572f961-f118-4cf8-a48f-b39677a4368d,burmese.archi,available,14.98,132.98,high,low,7,namecheap,,,11/08/2026 10:42
@@ -302,26 +329,28 @@ ae74f619-1c60-44e2-ade8-1c9e611250a3,latvian.archi,available,14.98,132.98,high,l
 d591bcc5-ebd1-452a-ae12-9b4be0f46470,bengali.archi,available,14.98,132.98,medium,low,7,namecheap,,,09/08/2026 14:29
 3d633085-70e8-445a-baaa-074e2ce4c419,tannish.archi,available,14.98,132.98,medium,low,7,namecheap,,,11/09/2026 08:03
 9b602519-d15e-40d2-adc2-2b316a6a0497,velocity.archi,available,24.99,,high,low,8,name.com,,,
-4c2fd012-4f62-49d0-823f-83a2ee6274d6,violation.archi,available,24.99,,high,low,9,name.com,,,
+4c2fd012-4f62-49d0-823f-83a2ee6274d6,violation.archi,available,19.99,103.99,high,low,9,namesilo,,,30/09/2026 00:09
 ff43a1eb-9073-480d-8404-2ea2f9511124,flamboyant.archi,available,19.99,103.99,high,low,10,namesilo,,,22/09/2026 12:57
 146ea64c-ce28-4152-ac1d-f724fab1b64b,stalinist.archi,available,14.98,132.98,medium,low,9,namecheap,,,10/09/2026 18:25
 abdaa610-0804-4586-854f-d3ebf10c7e92,nowhere.archi,available,18.5,,high,low,7,unstoppable,,,28/09/2026 16:28
 959a30a8-20c5-4cbd-aa46-3ee025a9a81f,saddam.archi,available,19.99,103.99,medium,low,6,namesilo,,,25/09/2026 23:11
 1a6062fe-39d3-471e-8911-a75c4811ccee,associate.archi,available,14.98,132.98,high,low,9,namecheap,,,07/08/2026 06:50
+f4cdc05c-1c1e-4b31-b635-f5e050bc97c1,aimed.archi,available,18.5,,high,low,5,unstoppable,,,29/09/2026 10:43
 210bc343-dca1-4817-9381-ded255e23f1f,critical.archi,available,19.99,103.99,high,low,8,namesilo,,,24/09/2026 02:02
 bf481aab-81be-4ab9-b75e-b087cb8f5525,rna.archi,available,14.98,132.98,high,low,3,namecheap,,,25/09/2026 10:20
-7182b352-22a8-4493-ac40-7e9c4fc227a9,forum.archi,available,,,high,low,5,,,,
 252805e7-2f66-478b-86fa-9bc25e53f23d,sensual.archi,available,19.99,103.99,high,low,7,namesilo,,,22/09/2026 04:34
 cf616bfc-2fe4-408c-acc5-186d0b24ba3f,royalties.archi,available,14.98,132.98,medium,low,9,namecheap,,,18/09/2026 03:27
 a16e022a-d311-4742-bf43-a6a6cb322d2c,punctuate.archi,available,19.99,103.99,high,low,9,namesilo,,,16/09/2026 21:54
 5d300805-4755-4381-a10c-b3565cec8d7e,slovene.archi,available,18.5,,medium,low,7,unstoppable,,,28/09/2026 20:30
 471f531e-d526-43bb-8bb3-f4bb98a04044,hardcover.archi,available,14.98,132.98,high,low,9,namecheap,,,21/08/2026 00:44
-6c7264aa-9247-4dd9-8b14-75c4b465c8a5,mission.archi,available,24.99,,high,medium,7,name.com,,,
-a21de2cf-5eaf-419b-af80-ad7851c0a33b,colours.archi,available,24.99,,high,low,7,name.com,,,
-ac307824-d15b-4284-80c8-50bbee28998d,intentions.archi,available,19.99,103.99,medium,low,10,namesilo,,,27/09/2026 22:32
+6c7264aa-9247-4dd9-8b14-75c4b465c8a5,mission.archi,available,18.5,,high,medium,7,unstoppable,,,29/09/2026 13:45
+a21de2cf-5eaf-419b-af80-ad7851c0a33b,colours.archi,available,13.14,83,high,low,7,spaceship,,,29/09/2026 10:20
+ac307824-d15b-4284-80c8-50bbee28998d,intentions.archi,available,19.99,103.99,high,low,10,namesilo,,,27/09/2026 22:32
+d201de64-db28-486c-85f3-8937c0be1c3e,sacramento.archi,available,18.5,,high,low,10,unstoppable,,,29/09/2026 18:11
+60ca49b1-e6d1-4dc9-953a-f79ec6ce296e,moynihan.archi,available,18.5,,medium,low,8,unstoppable,,,29/09/2026 18:33
 3b1bf661-1794-4875-bc8c-e6f89d405684,undreamed.archi,available,14.98,132.98,medium,low,9,namecheap,,,12/09/2026 08:22
 75d81e28-2ef8-414b-8f3b-a6d9da1aad34,ascendance.archi,available,19.99,103.99,high,low,10,namesilo,,,20/09/2026 13:03
-6733ef39-d96a-4a69-87c6-88e1073ece17,christ.archi,available,24.99,,high,low,6,name.com,,,
+6733ef39-d96a-4a69-87c6-88e1073ece17,christ.archi,available,14.98,132.98,high,low,6,namecheap,,,29/09/2026 09:03
 61d59320-0f8f-43e8-b86d-0874a494efec,omen.archi,available,19.99,103.99,high,low,4,namesilo,,,27/09/2026 07:13
 e54a00ce-e5c7-4843-bc86-e6a9dba25d39,realized.archi,available,19.99,103.99,high,low,8,namesilo,,,23/09/2026 17:28
 e6cefce9-d345-4f2f-b6b0-7df7a422ef9f,barrelfish.archi,available,14.98,132.98,medium,low,10,namecheap,,,22/09/2026 08:20
@@ -332,7 +361,7 @@ a6e9a7b7-ea0a-47e1-be02-cfd5522ce181,head.archi,available,19.99,103.99,high,low,
 bbcb6f33-dcba-4dff-a250-25c1688a0750,barebacked.archi,available,14.98,132.98,medium,low,10,namecheap,,,08/08/2026 18:44
 efb1d0fc-a6bc-4702-85a4-d180ad86773b,dismount.archi,available,19.99,103.99,high,low,8,namesilo,,,24/09/2026 22:48
 bf070487-175d-4a11-9bba-b6646971d3dd,purchaser.archi,available,19.99,103.99,high,low,9,namesilo,,,24/09/2026 11:22
-43235136-00c4-414d-b60d-2823c9aa37ba,ipc.archi,available,19.99,103.99,medium,low,3,namesilo,,,28/09/2026 15:52
+43235136-00c4-414d-b60d-2823c9aa37ba,ipc.archi,available,19.99,103.99,high,low,3,namesilo,,,28/09/2026 15:52
 b4641703-5cc8-490b-8e46-7b0024b696d4,rapturous.archi,available,14.98,132.98,high,low,9,namecheap,,,14/08/2026 23:48
 72ecf130-39d3-434f-a617-00f35061977a,hassium.archi,available,19.99,103.99,medium,low,7,namesilo,,,20/09/2026 22:10
 4bb0551f-5af7-4484-acac-5a2e04ee2787,tang.archi,available,19.99,103.99,high,low,4,namesilo,,,24/09/2026 01:32
@@ -345,13 +374,14 @@ fd1620bf-169e-4690-bdbd-0d77d107d3d6,matthews.archi,available,14.98,132.98,high,
 5ec2a0ae-6cd1-4627-a9f0-82020e42e3e4,frederick.archi,available,18.5,,high,low,9,unstoppable,,,28/09/2026 01:56
 272869f3-3880-46d1-9d5b-a5ccd3958644,bartholin.archi,available,14.98,132.98,medium,low,9,namecheap,,,22/09/2026 09:14
 0bbc095f-4a75-4d61-b8e3-58438649b3f2,creed.archi,available,19.99,103.99,high,low,5,namesilo,,,28/09/2026 18:43
-1f4f640f-3913-46e8-808a-d74420950dd2,breathless.archi,available,14.98,132.98,medium,low,10,namecheap,,,11/08/2026 03:23
-60522f67-cfba-4323-82ce-f2f871823e2a,truffle.archi,available,24.99,,high,low,7,name.com,,,
+1f4f640f-3913-46e8-808a-d74420950dd2,breathless.archi,available,14.98,132.98,high,low,10,namecheap,,,11/08/2026 03:23
+60522f67-cfba-4323-82ce-f2f871823e2a,truffle.archi,available,13.14,83,high,low,7,spaceship,,,29/09/2026 08:50
 8bcccd1f-2f6d-40cc-84d7-5ed3e61e0f29,cytotoxic.archi,available,24.99,136.99,medium,low,9,name.com,,,13/08/2026 14:44
 9b040d2d-44d4-488e-9e89-44cb1db93057,strongly.archi,available,19.99,103.99,medium,low,8,namesilo,,,28/09/2026 16:33
 21fa9aae-922b-4b6b-b254-0cfdb91d783b,inhouse.archi,available,24.99,,high,low,8,name.com,,,
 7cfbb54d-0dae-4312-a80d-e0ff1b63262a,antiphon.archi,available,14.98,132.98,medium,low,8,namecheap,,,19/09/2026 14:56
 3c81ee03-7000-42d3-8b99-7facccb84d5e,chipper.archi,available,14.98,132.98,high,low,7,namecheap,,,12/08/2026 05:56
+f91235d0-5bd9-4a6e-9da9-9d626c65b24b,montfort.archi,available,19.99,103.99,high,low,8,namesilo,,,30/09/2026 01:27
 e40ccf42-157f-428c-8383-d0eb08517a60,reads.archi,available,19.99,103.99,medium,low,5,namesilo,,,19/09/2026 00:45
 1298f709-705e-44ff-a498-cea1e43327c5,bleary.archi,available,14.98,132.98,medium,low,6,namecheap,,,10/08/2026 13:59
 e04fceae-91ee-42f5-b960-f9b534a96325,empyrean.archi,available,14.98,132.98,medium,low,8,namecheap,,,16/08/2026 20:51
@@ -372,17 +402,18 @@ ae9e08f1-5e74-4fc5-a52d-670961409dcf,diluvian.archi,available,14.98,132.98,mediu
 1ba6f355-ddf9-4d41-911a-31ec51108c1e,affixal.archi,available,14.98,132.98,medium,low,7,namecheap,,,
 d9f3309c-1d9b-4dbb-9819-856f2a2a7ab7,abronia.archi,available,14.98,132.98,medium,low,7,namecheap,,,16/09/2026 17:19
 05813901-7111-43bf-8d7f-479908bba786,twilight.archi,available,14.98,132.98,high,low,8,namecheap,,,11/09/2026 21:38
+f960e165-6a08-48f0-acd7-6d2326d7fe81,circumstance.archi,available,19.99,103.99,high,low,12,namesilo,,,29/09/2026 08:31
 f4170607-4338-409c-91be-34f1dadf8b6c,beldame.archi,available,19.99,103.99,medium,low,7,namesilo,,,23/09/2026 04:46
 6abe2cb7-b732-4ab5-89f4-1fe4ecf6f572,passcode.archi,available,24.99,,high,low,8,name.com,,,
 d7b21955-bfb3-4473-92d9-b75ecc0f4eb4,mathematical.archi,available,13.14,83,medium,low,12,spaceship,,,28/09/2026 21:06
-c36b8c5e-2919-43d7-b83a-f1d07f829a2a,devil.archi,available,19.99,103.99,medium,low,5,namesilo,,,23/09/2026 01:20
+c36b8c5e-2919-43d7-b83a-f1d07f829a2a,devil.archi,available,19.99,103.99,high,low,5,namesilo,,,23/09/2026 01:20
 e96fd77a-ea31-49db-8617-ce5c21fd3410,slyness.archi,available,14.98,132.98,medium,low,7,namecheap,,,13/08/2026 10:43
 b1a1cd71-85f9-45c1-afe2-bac92f64cacf,qatari.archi,available,14.98,132.98,high,low,6,namecheap,,,22/08/2026 15:09
 941b0b8c-df6e-4d7a-b786-f0b780103cdd,plush.archi,available,19.99,103.99,high,low,5,namesilo,,,25/09/2026 15:37
 91de4df4-5812-4967-8011-5040cb9799ae,tumultuous.archi,available,14.98,132.98,medium,low,10,namecheap,,,14/08/2026 12:25
 80c80124-1c48-4f43-b7ad-0c26f4d18bac,yeats.archi,available,18.5,,medium,low,5,unstoppable,,,28/09/2026 15:32
 0c8685df-91ec-4063-add1-ac71a736d904,scab.archi,available,14.98,132.98,medium,low,4,namecheap,,,24/09/2026 02:52
-705673da-981c-4435-bca7-6b986286e849,geeks.archi,available,19.99,103.99,medium,low,5,namesilo,,,17/09/2026 16:02
+705673da-981c-4435-bca7-6b986286e849,geeks.archi,available,19.99,103.99,high,low,5,namesilo,,,17/09/2026 16:02
 0a8dd99f-2ba1-43e6-9db6-8112fc10512b,sectorial.archi,available,14.98,132.98,medium,low,9,namecheap,,,10/09/2026 01:22
 ca287a19-80a4-42ba-85b9-b408aa1751be,graciously.archi,available,14.98,132.98,high,low,10,namecheap,,,14/09/2026 21:58
 bb59d485-ecea-4db4-8d02-08101f4083b0,gustative.archi,available,14.98,132.98,medium,low,9,namecheap,,,20/08/2026 21:08
@@ -401,25 +432,30 @@ c2b3f71f-3606-402d-8994-c7992b82273d,strength.archi,available,19.99,103.99,high,
 0e3785c8-86ab-4bac-8eb8-67e2d935b6c5,pro.archi,premium,192,192,high,medium,3,namesilo,,,09/09/2026 02:20
 77f78014-9783-4490-9d34-42b1b51d05c6,played.archi,available,19.99,103.99,high,low,6,namesilo,,,27/09/2026 04:03
 f4ae9db3-7e00-4713-95de-7b7203fb7a97,pastoral.archi,available,14.98,132.98,high,low,8,namecheap,,,06/08/2026 14:20
-416fe115-1c8c-45aa-ac6a-60418992d7da,chr.archi,available,13.14,83,medium,low,3,spaceship,,,28/09/2026 12:07
+416fe115-1c8c-45aa-ac6a-60418992d7da,chr.archi,available,13.14,83,high,low,3,spaceship,,,28/09/2026 12:07
+78466bce-163e-4916-b329-6ff027d5d807,indira.archi,available,19.99,103.99,medium,low,6,namesilo,,,29/09/2026 22:36
 0ab9fe2a-bc30-4cf2-b4d0-4ee771c61e84,articles.archi,available,18.5,,high,low,8,unstoppable,,,28/09/2026 04:25
+1a9e10ac-2187-4881-9b4b-19ed33f0ded0,murat.archi,available,14.98,132.98,high,low,5,namecheap,,,29/09/2026 22:16
 2693748d-e1b1-4fbf-92d2-d6a2ddbbf90c,smoothly.archi,available,14.98,132.98,high,low,8,namecheap,,,16/09/2026 02:56
 e744a964-479c-4c72-a905-921059b9e7fe,unflavored.archi,available,14.98,132.98,medium,low,10,namecheap,,,03/09/2026 19:15
-efafb3c6-c51f-45c4-91b4-87d43920f31c,ridicule.archi,available,14.98,132.98,medium,low,8,namecheap,,,24/09/2026 02:25
+efafb3c6-c51f-45c4-91b4-87d43920f31c,ridicule.archi,available,14.98,132.98,high,low,8,namecheap,,,24/09/2026 02:25
 ecba5dbd-c872-48fe-b448-44704154a03f,inversion.archi,available,19.99,103.99,high,low,9,namesilo,,,19/09/2026 03:24
 8e8a96b7-566c-48ad-9298-79f34490354e,wanton.archi,available,14.98,132.98,medium,low,6,namecheap,,,25/08/2026 07:57
 341a886b-4e83-443c-972d-d59fb1fb5458,unfeigned.archi,available,14.98,132.98,medium,low,9,namecheap,,,12/09/2026 10:06
 736ea777-540b-4602-8636-547a3b90857e,anomalous.archi,available,14.98,132.98,high,low,9,namecheap,,,
 c15476a3-5d2e-4ce3-9b30-b0167d9a718c,planners.archi,available,14.98,132.98,high,low,8,namecheap,,,21/09/2026 08:32
+fdeb5be7-a9ec-4654-af32-4ff2c96e200f,gallipoli.archi,available,13.14,83,medium,low,9,spaceship,,,29/09/2026 22:32
 63416165-512b-486e-9150-c2e4cb49ac38,guidance.archi,available,19.99,103.99,high,low,8,namesilo,,,28/09/2026 07:09
 55c5c24f-51d5-4ea1-af44-a37921f62bad,cohort.archi,available,19.99,103.99,high,low,6,namesilo,,,17/09/2026 16:45
 2194ef61-27df-4ea0-9434-e744c5321c6e,becomingly.archi,available,14.98,132.98,medium,low,10,namecheap,,,13/09/2026 23:45
-3826ffb1-42cb-4e2f-8e36-ccf11f0f5815,serve.archi,available,24.99,,high,low,5,name.com,,,
+3826ffb1-42cb-4e2f-8e36-ccf11f0f5815,serve.archi,available,13.14,83,high,low,5,spaceship,,,29/09/2026 15:49
+866d046a-c88e-4257-80bd-803f220ef401,implement.archi,available,13.14,83,high,low,9,spaceship,,,29/09/2026 13:06
 44da2655-c041-417d-85ec-74320cdb916f,baddie.archi,available,19.99,103.99,medium,low,6,namesilo,,,21/09/2026 16:59
 4f82b3f7-3eb5-42da-a79c-40a01cf80b52,named.archi,available,24.99,,high,low,5,name.com,,,
 b0effa8f-1633-43d5-bbcd-150f6250d31b,detached.archi,available,19.99,103.99,high,low,8,namesilo,,,24/09/2026 07:07
 ba6da5a7-9172-4dd8-98e9-3fc74ed5dad9,rest.archi,available,19.99,103.99,high,low,4,namesilo,,,27/09/2026 12:11
-0537828c-49c3-4dd6-98c9-e82d116e746d,fever.archi,available,24.99,,high,low,5,name.com,,,
+0537828c-49c3-4dd6-98c9-e82d116e746d,fever.archi,available,13.14,83,high,low,5,spaceship,,,29/09/2026 19:05
+96104892-1619-4696-b62a-5b273eee9266,performers.archi,available,19.99,103.99,medium,low,10,namesilo,,,30/09/2026 00:18
 f901b852-ed3f-4893-aa3e-8d3d02b6d5a8,absinthe.archi,available,,,high,low,8,,,,16/09/2026 17:47
 318be209-a7fe-4e42-9f6c-202ad1fe31dd,serie.archi,available,19.99,103.99,high,low,5,namesilo,,,28/09/2026 15:54
 487b6ed9-6132-4961-9fa5-febf789db1a0,plenteous.archi,available,14.98,132.98,medium,low,9,namecheap,,,08/09/2026 21:08
@@ -434,16 +470,20 @@ c1e31bf1-23cb-4e61-a4ba-e0bc5f75b59f,affluence.archi,available,13.39,82.9,high,l
 b104c502-1e11-4ad7-92a0-366691d28249,debate.archi,available,19.99,103.99,high,low,6,namesilo,,,24/09/2026 05:29
 bd5bc7f0-b707-490a-8303-8700ba2b1c0d,apodous.archi,available,14.98,132.98,medium,low,7,namecheap,,,06/08/2026 01:21
 26552188-d92f-435a-9902-30c623715d99,thorough.archi,available,14.98,132.98,high,low,8,namecheap,,,17/08/2026 17:10
+8ec00da4-61c6-4f8d-a78c-189fa865537f,terri.archi,available,19.99,103.99,medium,low,5,namesilo,,,29/09/2026 09:23
 3ccb19d7-3b2d-4a95-b986-1e1bb9b91e70,dialog.archi,available,19.99,103.99,high,low,6,namesilo,,,24/09/2026 22:13
 14f6a4de-3fed-4756-8828-7576562bf715,yes.archi,available,19.99,103.99,high,medium,3,namesilo,,,27/09/2026 06:36
 acc93927-176d-4cc0-b984-8d7a79ddafeb,warming.archi,available,14.98,132.98,high,low,7,namecheap,,,11/08/2026 14:09
 def1e64b-9bbf-474a-8b90-ee502c89deb5,pavel.archi,available,13.14,83,medium,low,5,spaceship,,,28/09/2026 12:06
 96c0a614-0706-4bb2-9787-8a8301ee7d94,neritic.archi,available,14.98,132.98,medium,low,7,namecheap,,,03/09/2026 15:41
-5aa5071d-cc51-4711-b34c-5bf9dd004348,riding.archi,available,24.99,,high,low,6,name.com,,,
+5aa5071d-cc51-4711-b34c-5bf9dd004348,riding.archi,available,13.14,83,high,low,6,spaceship,,,29/09/2026 18:18
 13172576-fdc1-4eeb-9a63-4abb47efe538,aligned.archi,available,14.98,132.98,high,low,7,namecheap,,,
 177d7406-d59e-4f70-96ca-7ad467036c49,disorganized.archi,available,24.99,,medium,low,12,name.com,,,
-90a1efb6-03d2-4be7-9f50-9d1e01f31d8c,feather.archi,available,24.99,,high,low,7,name.com,,,
+c799f201-8cc9-4f3f-9601-8b2adab8958c,skirts.archi,available,13.14,83,medium,low,6,spaceship,,,29/09/2026 11:11
+90a1efb6-03d2-4be7-9f50-9d1e01f31d8c,feather.archi,available,18.5,,high,low,7,unstoppable,,,29/09/2026 19:02
+980a4eec-7b31-4c6f-bc7c-8c78c16b350d,minimize.archi,available,13.39,82.9,high,low,8,porkbun,,,29/09/2026 20:40
 f69c9be9-742b-4e4c-8ef7-9dd54520e8a0,synthetic.archi,available,14.98,132.98,high,low,9,namecheap,,,11/08/2026 23:35
+fa66d94a-b8f8-4c26-b948-88dc955a96e1,vowed.archi,available,13.14,83,high,low,5,spaceship,,,29/09/2026 23:41
 1287bfac-bbeb-4cd6-b245-f6d932f11fa0,acanthus.archi,available,14.98,132.98,high,low,8,namecheap,,,16/09/2026 21:02
 5645742c-7a5d-4479-8108-ba79a0494ebe,breakfasts.archi,available,19.99,103.99,medium,low,10,namesilo,,,20/09/2026 13:21
 ccc6d544-2e68-436c-9dab-ea7e33cd3a93,snooty.archi,available,14.98,132.98,medium,low,6,namecheap,,,09/08/2026 20:39
@@ -456,7 +496,7 @@ b7ca570c-6b23-4de9-9637-96737ed0bfc3,unaware.archi,available,14.98,132.98,medium
 193f7405-6a5a-468b-bf9d-9d1a201a9cfa,approaching.archi,available,19.99,103.99,high,low,11,namesilo,,,25/09/2026 11:21
 1ef34d97-595b-428e-9a4d-7fced74d1866,malaysian.archi,available,14.98,132.98,high,low,9,namecheap,,,24/08/2026 13:46
 4c04d912-421c-4f2b-92c6-8d8b9575eca0,prehistoric.archi,available,19.99,103.99,medium,low,11,namesilo,,,29/09/2026 03:08
-33d2fa2f-da9c-47b4-b3f2-229f77e0d360,nepalese.archi,available,14.98,132.98,medium,low,8,namecheap,,,03/09/2026 15:35
+33d2fa2f-da9c-47b4-b3f2-229f77e0d360,nepalese.archi,available,14.98,132.98,high,low,8,namecheap,,,03/09/2026 15:35
 1c9eaa95-3d53-44e7-ac9f-79ab3a5bf9d2,eating.archi,available,14.98,132.98,high,low,6,namecheap,,,08/09/2026 13:35
 14984aa3-dd3e-4c23-aff2-178590700f4e,guarneri.archi,available,14.98,132.98,medium,low,8,namecheap,,,19/09/2026 04:22
 54a58fc5-e4b8-40de-8e57-fc8bbd60cdfc,acarine.archi,available,14.98,132.98,medium,low,7,namecheap,,,16/09/2026 21:33
@@ -465,51 +505,56 @@ b7ca570c-6b23-4de9-9637-96737ed0bfc3,unaware.archi,available,14.98,132.98,medium
 6f7ec0b3-f1d6-4b26-99a3-c1d6e3ea7c5a,heather.archi,available,18.5,,high,low,7,unstoppable,,,28/09/2026 05:22
 62c83a89-9901-4fd8-bfdb-860546829696,similarly.archi,available,19.99,103.99,medium,low,9,namesilo,,,28/09/2026 16:09
 ab4c2eda-37a7-499d-b374-9c6777705821,trumpcare.archi,available,24.99,,medium,low,10,name.com,,,
-5f86e2b7-bd2b-4cb0-bb7e-056b6bd50f12,rodriguez.archi,available,14.98,132.98,medium,low,9,namecheap,,,28/09/2026 22:21
+5f86e2b7-bd2b-4cb0-bb7e-056b6bd50f12,rodriguez.archi,available,14.98,132.98,high,low,9,namecheap,,,28/09/2026 22:21
 7dffc344-2ffa-41d7-83c4-febc316721f1,restriction.archi,available,24.99,,high,low,11,name.com,,,
 be1c87b6-8ee5-408c-89aa-18c8f5de39b1,ancestor.archi,available,14.98,132.98,high,low,8,namecheap,,,
 1b7a7b5b-5bfc-4cdd-abb9-d2b8ebf51364,accented.archi,available,14.98,132.98,medium,low,8,namecheap,,,
 aa151382-55f7-4df5-aca6-6756fbde8409,settle.archi,available,19.99,103.99,high,low,6,namesilo,,,25/09/2026 10:17
 970f9a67-bdcb-4856-91e0-81d91478cdb0,bret.archi,available,13.14,83,medium,low,4,spaceship,,,29/09/2026 03:55
 718e9f62-ed97-4ea9-ad91-534cb6ac131f,gestural.archi,available,14.98,132.98,medium,low,8,namecheap,,,18/08/2026 22:57
-264f8d28-dba8-43ce-a1ad-57f11866fe99,esfahan.archi,available,14.98,132.98,medium,low,7,namecheap,,,20/09/2026 14:33
+264f8d28-dba8-43ce-a1ad-57f11866fe99,esfahan.archi,available,14.98,132.98,high,low,7,namecheap,,,20/09/2026 14:33
+ee9ec19b-8cc6-4d32-8fd9-6a7ed00f8d71,ennis.archi,available,13.14,83,high,low,5,spaceship,,,29/09/2026 10:00
 0765647c-18d9-465f-a20f-d862216639e3,leadership.archi,available,24.99,,high,low,10,name.com,,,
 cdf26c7f-2f5d-4b0f-be2c-927ec2fdc3bc,peccable.archi,available,14.98,132.98,medium,low,8,namecheap,,,08/09/2026 11:30
 1eb911ec-eadc-41cb-b9d4-0833d351cbea,cushy.archi,available,14.98,132.98,high,low,5,namecheap,,,13/08/2026 11:58
-994f0ce2-ba8a-4399-8a58-d961a0e680c6,distress.archi,available,24.99,,high,low,8,name.com,,,
+994f0ce2-ba8a-4399-8a58-d961a0e680c6,distress.archi,available,13.14,83,high,low,8,spaceship,,,29/09/2026 16:17
 41df73ab-4b4f-4548-8896-4b5a278ced00,oxfam.archi,available,24.99,,high,low,5,name.com,,,
 23e90465-f7fa-4d2a-9364-8c812f51f5ad,seemly.archi,available,14.98,132.98,medium,low,6,namecheap,,,09/08/2026 06:27
 ee2666b9-eb9a-481e-b9f0-409340827b01,fraught.archi,available,14.98,132.98,medium,low,7,namecheap,,,18/08/2026 14:23
 96a3efff-38cf-4504-bd2a-2ab5bb146784,censor.archi,available,19.99,103.99,high,low,6,namesilo,,,22/09/2026 00:43
 be261fa5-428e-4a2c-b194-928d9d97a9ea,evil.archi,available,19.99,103.99,high,medium,4,namesilo,,,24/09/2026 15:41
-9ab00e25-c990-4cca-a46c-d184f702d7c2,costless.archi,available,14.98,132.98,medium,low,8,namecheap,,,13/08/2026 03:12
+9ab00e25-c990-4cca-a46c-d184f702d7c2,costless.archi,available,14.98,132.98,high,low,8,namecheap,,,13/08/2026 03:12
 941f54ef-d9f1-4ef7-870b-ce489051ee9f,catfish.archi,available,19.99,103.99,high,low,7,namesilo,,,29/09/2026 00:23
 79b3e74b-8c13-4e22-a9d6-b73ae9187e2c,gaston.archi,available,19.99,103.99,high,low,6,namesilo,,,25/09/2026 12:38
 e336b4e8-1646-4cc4-b34f-b2ae6bfbe937,moneron.archi,available,14.98,132.98,medium,low,7,namecheap,,,25/08/2026 04:30
+1bfda84a-4047-4b08-913f-a43d6a5e6af9,prosecuted.archi,available,13.39,82.9,low,low,10,porkbun,,,29/09/2026 17:43
 5dd31e8a-6dcc-4882-a895-dbc355088fa1,andrena.archi,available,19.99,103.99,medium,low,7,namesilo,,,19/09/2026 04:31
 04ff0a0f-a1d3-4051-b035-08d5e0f4830e,centrical.archi,available,14.98,132.98,medium,low,9,namecheap,,,12/08/2026 00:12
+ed02450b-013d-419b-97cc-b98881566c75,maas.archi,available,18.5,,high,low,4,unstoppable,,,29/09/2026 21:54
 65183f42-03d2-4682-9eb8-935ba095364e,boat.archi,available,14.98,132.98,high,low,4,namecheap,,,29/09/2026 03:06
-b52f434e-c0e4-42fd-921e-0335b84c0ed8,event.archi,available,14.98,132.98,high,medium,5,namecheap,,,25/09/2026 05:15
+b52f434e-c0e4-42fd-921e-0335b84c0ed8,event.archi,available,14.98,132.98,high,medium,5,namecheap,,,29/09/2026 08:05
 f55e4249-d744-4220-a8ba-fcb3269fed45,measurably.archi,available,14.98,132.98,medium,low,10,namecheap,,,15/09/2026 13:50
 004a467c-4309-4e86-933b-f7fcb8760643,kidnap.archi,available,14.98,132.98,medium,low,6,namecheap,,,28/09/2026 20:48
-fd4833c0-b0cf-4ad8-8f11-68be06966928,provincial.archi,available,14.98,132.98,medium,low,10,namecheap,,,11/08/2026 07:37
-f4647368-e719-447e-9219-7cbe0da32ae7,annalistic.archi,available,,,medium,low,10,,,,
+fd4833c0-b0cf-4ad8-8f11-68be06966928,provincial.archi,available,14.98,132.98,high,low,10,namecheap,,,11/08/2026 07:37
+f4647368-e719-447e-9219-7cbe0da32ae7,annalistic.archi,available,,,high,low,10,,,,
 30bad550-b7ad-4e83-bb4b-6ba854f79939,evaporate.archi,available,24.99,,high,low,9,name.com,,,
 9cead74f-5012-4ce3-b2f0-e95f9f0170fb,fazed.archi,available,14.98,132.98,medium,low,5,namecheap,,,10/08/2026 21:00
 463f73de-da22-4a8a-8394-3d4b97efa62c,achiever.archi,available,18.5,,high,low,8,unstoppable,,,28/09/2026 17:48
-44e2e330-2cc3-46a7-a576-5858bac4bb4a,lock.archi,available,24.99,,high,low,4,name.com,,,
-06ef0944-fa69-4180-a0fc-07d360a08108,oahu.archi,available,13.39,82.9,medium,low,4,porkbun,,,28/09/2026 10:38
-16084150-ae13-4b7f-b6a5-1b2e4456a7a4,thou.archi,available,19.99,103.99,medium,low,4,namesilo,,,21/09/2026 11:11
+44e2e330-2cc3-46a7-a576-5858bac4bb4a,lock.archi,available,18.5,,high,low,4,unstoppable,,,29/09/2026 23:33
+06ef0944-fa69-4180-a0fc-07d360a08108,oahu.archi,available,13.39,82.9,high,low,4,porkbun,,,28/09/2026 10:38
+16084150-ae13-4b7f-b6a5-1b2e4456a7a4,thou.archi,available,19.99,103.99,high,low,4,namesilo,,,21/09/2026 11:11
 b16aa7f2-caec-41de-8ff0-71808cfa64c8,hatched.archi,available,14.98,132.98,high,low,7,namecheap,,,13/08/2026 08:20
 4b2b4828-ddeb-402c-94cf-d7912d0bc5bc,affordable.archi,available,19.99,103.99,high,low,10,namesilo,,,21/09/2026 21:59
-08e62579-975a-4655-a493-0580b2e447f9,comprehensive.archi,available,18.5,,medium,low,13,unstoppable,,,29/09/2026 02:53
+08e62579-975a-4655-a493-0580b2e447f9,comprehensive.archi,available,18.5,,high,low,13,unstoppable,,,29/09/2026 02:53
 478dbf1b-ef84-4a2f-967b-f063e7c8d61d,old.archi,available,19.99,103.99,high,low,3,namesilo,,,24/09/2026 15:09
 74a39019-a8e2-40a3-85ac-571d3d11a4c9,angiology.archi,available,19.99,103.99,medium,low,9,namesilo,,,19/09/2026 06:13
 95f0fd6f-fcda-4680-9c7d-e8fc7f5ca760,damask.archi,available,24.99,136.99,high,low,6,name.com,,,13/08/2026 16:09
 a67ed595-2bc4-4765-8927-6251e1406b13,pressure.archi,available,19.99,103.99,high,low,8,namesilo,,,24/09/2026 23:12
 2daa3b62-2907-4fa5-9450-9ab5e1dc6140,mean.archi,available,14.98,132.98,high,low,4,namecheap,,,22/09/2026 18:47
 23185652-716b-46bd-a9b9-ddee2c717bc1,frivolous.archi,available,14.98,132.98,medium,low,9,namecheap,,,18/08/2026 16:04
-f2806e7e-a908-4f40-b4d3-be05da5ba342,detest.archi,available,24.99,,medium,low,6,name.com,,,
+f2806e7e-a908-4f40-b4d3-be05da5ba342,detest.archi,available,13.14,83,medium,low,6,spaceship,,,29/09/2026 22:18
+4058d2bc-7e39-4bbb-8cb1-d22a4e2355cf,logged.archi,available,18.5,,medium,low,6,unstoppable,,,29/09/2026 16:39
+cb9a1e3a-a7b2-4f50-8d6d-a3e11deb041e,reduction.archi,available,19.99,103.99,high,low,9,namesilo,,,29/09/2026 07:57
 a9f0ec7e-8b74-4c9b-92e7-a9234f548971,tactics.archi,available,19.99,103.99,high,low,7,namesilo,,,28/09/2026 02:32
 e5529eaf-f55d-439d-a6e3-faa9d7f1baf3,wager.archi,available,19.99,103.99,high,low,5,namesilo,,,23/09/2026 10:51
 6931c21a-8f68-40c8-8dca-dbde947b98ca,tolerant.archi,available,14.98,132.98,high,low,8,namecheap,,,22/08/2026 19:55
@@ -517,21 +562,26 @@ e5529eaf-f55d-439d-a6e3-faa9d7f1baf3,wager.archi,available,19.99,103.99,high,low
 e39459a6-2d97-4c71-9c81-42708bfc41e2,toe.archi,available,24.99,,medium,low,3,name.com,,,
 78a78217-8de2-47fc-85e1-3848b1d6045e,bijou.archi,available,19.99,103.99,high,low,5,namesilo,,,23/09/2026 15:32
 f90a7ffe-a287-4568-8669-80a01647462d,miriam.archi,available,13.14,83,high,low,6,spaceship,,,28/09/2026 03:46
-5d10604f-b295-402d-a444-85b153d90689,akko.archi,available,14.98,132.98,medium,low,4,namecheap,,,16/09/2026 22:23
+a059d923-bae2-4d04-8e98-b84ba7042770,gaa.archi,available,13.14,83,high,low,3,spaceship,,,29/09/2026 08:40
+5d10604f-b295-402d-a444-85b153d90689,akko.archi,available,14.98,132.98,high,low,4,namecheap,,,16/09/2026 22:23
 ba8b19ff-3a33-4b88-84f9-abf699b5f038,filaria.archi,available,19.99,103.99,medium,low,7,namesilo,,,18/09/2026 06:14
 4a08e07c-c2b7-4072-97ac-a06e606d3282,besieged.archi,available,14.98,132.98,low,low,8,namecheap,,,09/08/2026 15:25
 f46681f4-cfa0-4d46-9b49-b04824171d1d,subvert.archi,available,14.98,132.98,medium,low,7,namecheap,,,13/08/2026 02:15
+2abccc0a-1a52-4edb-8ef0-5fa533da923a,copying.archi,available,14.98,132.98,high,low,7,namecheap,,,30/09/2026 01:06
 e3d163f7-919c-4f68-a1ae-2bfd35ba7d07,polo.archi,available,,,high,high,4,,,,
 ee82c189-35b2-407a-bb07-84b67770d1a4,regrets.archi,available,18.5,,medium,low,7,unstoppable,,,28/09/2026 15:15
 3ba092f5-589f-46d8-a2c9-e5d89ecf33e8,conversation.archi,available,19.99,103.99,high,low,12,namesilo,,,26/09/2026 00:44
 3fc121ca-01f3-4b56-9527-63af1373f3cc,hackneyed.archi,available,14.98,132.98,medium,low,9,namecheap,,,08/08/2026 10:56
 17ea8cdb-3c0a-4b4a-b5f3-70fbf8c499d4,coaching.archi,available,18.5,103.99,high,low,8,unstoppable,,,28/09/2026 10:49
+64e47b10-c634-4e4e-aa93-96fc386e5f61,williamstown.archi,available,19.99,103.99,medium,low,12,namesilo,,,29/09/2026 22:48
+41578d12-cb5d-4055-a397-ddb378bda415,colleges.archi,premium,118.8,118.8,medium,low,8,namesilo,,,29/09/2026 05:34
 f4e2ac56-1121-42a2-b01c-d00d0421a9db,copperhead.archi,available,14.98,132.98,medium,low,10,namecheap,,,17/09/2026 18:16
 aa02c04b-582a-43ab-97ae-200d005f7e3a,complacent.archi,available,14.98,132.98,medium,low,10,namecheap,,,12/08/2026 19:25
 1d096cdf-d393-44c8-8780-f2807b4075aa,tolerate.archi,available,19.99,103.99,high,low,8,namesilo,,,24/09/2026 10:45
 edb34798-11c9-4cc0-bbfe-3834b38e533b,exonerated.archi,available,14.98,132.98,high,low,10,namecheap,,,
 67938b5c-7ced-4dd1-8d2b-2ecda3c730e7,hyalin.archi,available,14.98,132.98,medium,low,6,namecheap,,,21/08/2026 16:10
 8491e0cb-6ff4-4309-9240-e812a0475ee8,bannister.archi,available,19.99,103.99,high,low,9,namesilo,,,22/09/2026 00:23
+ff1fd321-0198-441c-b189-3559e03e7f73,sync.archi,available,14.98,132.98,high,medium,4,namecheap,,,29/09/2026 20:47
 0331c8b4-bdc0-42ef-892d-ca8b3271147d,banditry.archi,available,19.99,103.99,medium,low,8,namesilo,,,22/09/2026 01:24
 0b121de3-12df-4da2-9526-f5cf4d6528d5,mockingly.archi,available,14.98,132.98,medium,low,9,namecheap,,,14/09/2026 12:02
 37a7b1c2-ebf1-45c5-b921-ac6799b81c41,condense.archi,available,24.99,,high,low,8,name.com,,,
@@ -548,14 +598,18 @@ d3642c2a-ae1d-4c9c-98b8-3ed8fd4fb8d4,oodles.archi,available,14.98,132.98,high,lo
 e1d9f647-81ac-4880-86d3-2bbd0a8276ff,appall.archi,available,24.99,136.99,medium,low,6,name.com,,,18/09/2026 01:55
 d352ce28-608d-4530-b771-1539ecca8f36,archimedes.archi,available,19.99,103.99,medium,low,10,namesilo,,,20/09/2026 02:08
 b1a88e9e-616f-4080-a7ca-f2a16080e60a,snoopy.archi,available,14.98,132.98,medium,low,6,namecheap,,,03/09/2026 21:54
+66a5ea6c-3d65-4002-8656-d06a26014656,flashlight.archi,available,19.99,103.99,high,low,10,namesilo,,,29/09/2026 06:57
 3035a3d9-734d-4e04-a715-80a1fdd3a05a,tab.archi,available,18.5,,high,low,3,unstoppable,,,28/09/2026 10:59
 df309830-a8ea-454d-8132-23c402509ce8,sensed.archi,available,14.98,132.98,high,low,6,namecheap,,,08/09/2026 16:07
 4b8d1c3e-e39e-4896-b6c9-1d35b1b9003b,sensation.archi,available,19.99,103.99,high,low,9,namesilo,,,21/09/2026 17:34
+7ffb55ca-609c-40b8-a6bf-285084f9ac9a,joshi.archi,available,18.5,,high,low,5,unstoppable,,,29/09/2026 14:31
 f22d4495-4dd5-4ca2-b132-ccdaad044695,ribs.archi,available,13.14,83,medium,low,4,spaceship,,,28/09/2026 00:08
+f9a8e1bd-3204-42f7-b12d-2d2e17e3d655,vibrations.archi,available,19.99,103.99,medium,low,10,namesilo,,,29/09/2026 23:57
 a606a869-f794-42f0-acb0-c1ab57ab899d,amish.archi,available,19.99,103.99,high,low,5,namesilo,,,18/09/2026 21:52
 a0bd3fa8-5788-4220-ad5c-48e3117e14ce,hostess.archi,available,19.99,103.99,high,low,7,namesilo,,,17/09/2026 22:27
 6a7dbdf0-bb6a-4b29-a43a-d4552102af4d,tel.archi,available,24.99,,high,low,3,name.com,,,
 407070e7-e643-4431-97d6-18b7e608e47d,hoggish.archi,available,14.98,132.98,low,low,7,namecheap,,,21/08/2026 10:16
+557ed7a4-e41b-4c6f-8ba4-5620bdc15f28,seduce.archi,available,19.99,103.99,high,low,6,namesilo,,,29/09/2026 14:16
 0ba46f28-7df3-4fb8-93ca-22f4545fe49b,doggo.archi,available,14.98,132.98,medium,low,5,namecheap,,,14/09/2026 13:35
 d127f91e-817d-4d3e-aa35-906318492837,paroxysmal.archi,available,14.98,132.98,medium,low,10,namecheap,,,08/09/2026 01:54
 bbac7281-fabc-4884-8e0b-70e2acaf6d40,hoop.archi,available,19.99,103.99,high,low,4,namesilo,,,22/09/2026 11:23
@@ -568,14 +622,16 @@ b65247ba-b5d5-45f6-99a5-1a80e924a8b4,victuals.archi,available,14.98,132.98,mediu
 895d8de2-20fc-4875-b42b-162007272937,birthplace.archi,available,14.98,132.98,high,low,10,namecheap,,,23/09/2026 21:18
 3a597e0c-01c3-422a-8794-c240839d265d,larghetto.archi,available,14.98,132.98,medium,low,9,namecheap,,,22/08/2026 19:57
 f1abdc5d-318a-4048-b968-afd4a85d66f3,foaming.archi,available,14.98,132.98,high,low,7,namecheap,,,11/08/2026 07:18
-a36ee4fa-d7ae-4231-9ae8-09fcfe68efd6,glinting.archi,available,14.98,132.98,medium,low,8,namecheap,,,
+a36ee4fa-d7ae-4231-9ae8-09fcfe68efd6,glinting.archi,available,14.98,132.98,high,low,8,namecheap,,,
+1f38d479-f367-49b7-9b0a-b0b5a90936d5,overheard.archi,available,19.99,103.99,medium,low,9,namesilo,,,29/09/2026 22:55
 6d93f8a9-d001-4c0e-9f72-d4294707cb42,confide.archi,available,24.99,,high,low,7,name.com,,,
 f69a2e17-4a34-4aa5-823f-d9c7a23a49de,bioko.archi,available,14.98,132.98,medium,low,5,namecheap,,,23/09/2026 18:17
 9153622b-62b4-4c24-820c-64b3497783c6,runaway.archi,available,14.98,132.98,high,low,7,namecheap,,,18/08/2026 17:46
-6de8de6b-5ea3-43b6-a834-a1d46f4d43dd,remarkably.archi,available,14.98,132.98,medium,low,10,namecheap,,,15/09/2026 23:06
-f3a69a84-e6e2-4d91-b285-99e004490872,probation.archi,available,13.14,83,medium,low,9,spaceship,,,28/09/2026 10:46
+6de8de6b-5ea3-43b6-a834-a1d46f4d43dd,remarkably.archi,available,14.98,132.98,high,low,10,namecheap,,,15/09/2026 23:06
+f3a69a84-e6e2-4d91-b285-99e004490872,probation.archi,available,13.14,83,high,low,9,spaceship,,,28/09/2026 10:46
 a9a50c24-28d4-4acd-8428-5d7566c6b3c2,squeaking.archi,available,14.98,132.98,medium,low,9,namecheap,,,10/09/2026 00:03
 2bea2d63-932a-4ba6-a5cd-82c0cd02b76d,ale.archi,available,14.98,132.98,high,low,3,namecheap,,,28/09/2026 20:11
+2afa1a1c-ecbb-409a-8ac5-8cc5e2059c1f,firms.archi,available,13.14,83,high,low,5,spaceship,,,29/09/2026 17:52
 73b9c206-e06f-4967-8a34-072d4f806ad2,grubby.archi,available,14.98,132.98,medium,low,6,namecheap,,,09/08/2026 09:31
 3c237295-3b0d-4e77-a559-fc0bbbd5eec3,offsides.archi,available,14.98,132.98,medium,low,8,namecheap,,,04/09/2026 01:40
 4f136dc8-3348-4ed1-9673-44a72fd70aa5,cordial.archi,available,14.98,132.98,high,low,7,namecheap,,,21/09/2026 21:39
@@ -589,9 +645,11 @@ f8e73733-10cd-4b0b-99f1-b3776fbd8374,towns.archi,available,19.99,103.99,high,low
 00d3f8bf-fc57-4491-a05c-9a327a66ac56,sublimely.archi,available,19.99,103.99,medium,low,9,namesilo,,,16/09/2026 07:34
 e704174d-e49d-4fa5-8b24-99ab93e3c6ac,has.archi,available,24.99,,high,low,3,name.com,,,
 725aa620-6a5b-48c0-966b-c660e07ec8a5,slap.archi,available,14.98,132.98,high,low,4,namecheap,,,13/09/2026 23:26
+60bab99c-db77-43ae-bc38-c6e1bf637038,bred.archi,available,19.99,103.99,high,low,4,namesilo,,,29/09/2026 14:17
 22a4f09d-0448-42ac-b54b-d63229cfb545,farseeing.archi,available,14.98,132.98,high,low,9,namecheap,,,14/08/2026 22:22
 08b2c9f4-7e6e-4517-8614-289458301196,launched.archi,available,19.99,103.99,high,low,8,namesilo,,,18/09/2026 13:03
 6ee7e754-3e77-4a81-8ece-bf0612c5f5bb,ninety.archi,available,14.98,132.98,high,low,6,namecheap,,,
+1adf2095-a429-4533-beb4-02395c090e49,cleary.archi,available,13.14,83,medium,low,6,spaceship,,,29/09/2026 15:01
 ee9ecb8b-17d8-47a8-9def-a323f2799852,additions.archi,available,14.98,132.98,medium,low,9,namecheap,,,18/09/2026 16:32
 b433e518-b6f7-43f8-9f6c-de94a870ce92,vexation.archi,available,14.98,132.98,medium,low,8,namecheap,,,
 ae032136-c8c1-429b-8b19-c3b896664a5e,occluded.archi,available,14.98,132.98,medium,low,8,namecheap,,,04/09/2026 00:12
@@ -599,8 +657,8 @@ ae032136-c8c1-429b-8b19-c3b896664a5e,occluded.archi,available,14.98,132.98,mediu
 1090d168-1ec6-4ac9-b14d-eae9116b5d55,acceptive.archi,available,14.98,132.98,medium,low,9,namecheap,,,
 d0961ac7-1283-428b-a9fd-bd59ba502160,festal.archi,available,14.98,132.98,medium,low,6,namecheap,,,18/08/2026 02:13
 2d442c05-05df-4d7f-ab9d-8915d5b149b3,pathogenic.archi,available,14.98,132.98,medium,low,10,namecheap,,,22/08/2026 04:17
-8127d4f1-2f33-4c79-8f17-506d7a151747,cockpit.archi,available,24.99,,high,low,7,name.com,,,
-47beee21-82ce-40a9-98e2-c0cfca1d3e49,jibe.archi,available,19.99,103.99,medium,low,4,namesilo,,,22/09/2026 04:14
+8127d4f1-2f33-4c79-8f17-506d7a151747,cockpit.archi,available,19.99,103.99,high,low,7,namesilo,,,29/09/2026 10:12
+47beee21-82ce-40a9-98e2-c0cfca1d3e49,jibe.archi,available,19.99,103.99,high,low,4,namesilo,,,22/09/2026 04:14
 525ed1e3-35be-48cd-86d2-15994afb09fe,pressing.archi,available,19.99,103.99,high,low,8,namesilo,,,27/09/2026 05:26
 f35bf699-2c03-4e35-a297-80c63ef889b2,series.archi,available,14.98,132.98,high,low,6,namecheap,,,19/09/2026 17:55
 0c0fefcf-1181-4fb5-8242-da17a9ec9330,automat.archi,available,14.98,132.98,high,low,7,namecheap,,,21/09/2026 06:52
@@ -611,40 +669,46 @@ bc6bfffe-7dd1-49eb-b47e-656b6ead216b,yogurt.archi,available,13.14,83,high,low,6,
 884907d3-1d50-49b2-8c8d-63e70f843aef,beef.archi,available,19.99,103.99,high,low,4,namesilo,,,23/09/2026 00:18
 60223c22-8f32-40f2-b502-81c044647de7,showers.archi,available,19.99,103.99,medium,low,7,namesilo,,,28/09/2026 23:39
 bda9394d-7999-424f-bb68-aca98f246dec,imitator.archi,available,19.99,103.99,medium,low,8,namesilo,,,19/09/2026 16:27
-5d5ac7e0-24f0-4ad1-b077-28eaff9d7800,bossy.archi,available,14.98,132.98,medium,low,5,namecheap,,,07/08/2026 19:35
+5d5ac7e0-24f0-4ad1-b077-28eaff9d7800,bossy.archi,available,14.98,132.98,high,low,5,namecheap,,,07/08/2026 19:35
 9afd678f-a5df-4bd7-b4ee-a5e16c07203f,mind.archi,available,14.98,132.98,high,medium,4,namecheap,,,24/09/2026 19:19
 75ef0497-3025-4369-82a8-88ad05d8f45a,partnership.archi,available,13.14,83,high,low,11,spaceship,,,28/09/2026 04:23
 4631df9b-5fc3-4d14-b719-e39c07dc74a5,bitok.archi,available,19.99,103.99,medium,low,5,namesilo,,,23/09/2026 22:40
 f318af59-c71a-45a8-8c09-39cac8ebc57c,middleton.archi,available,14.98,132.98,high,low,9,namecheap,,,25/09/2026 09:23
+56c6e66c-67b8-44ce-aac2-686c3d1a62ea,tahiti.archi,available,13.14,83,high,low,6,spaceship,,,29/09/2026 20:28
+6275e03f-f021-4a3f-84d6-02d1c6fe5ec9,fishermen.archi,available,19.99,103.99,medium,low,9,namesilo,,,29/09/2026 10:38
 89b1926e-f17a-47fd-87f9-e60560c25e71,roomily.archi,available,14.98,132.98,medium,low,7,namecheap,,,16/09/2026 00:01
 5496a835-f0f7-40bd-976d-c1908f3a72dc,creditable.archi,available,14.98,132.98,high,low,10,namecheap,,,13/08/2026 05:54
 602f3334-8e63-4dc6-90fa-c7f9b7e43070,lucy.archi,available,24.99,,high,low,4,name.com,,,
 cda7ff59-c424-4c42-8654-1d6d1f2166a3,dumbarton.archi,available,19.99,103.99,medium,low,9,namesilo,,,29/09/2026 04:37
 4e7440df-2c1a-4195-bbf0-8bb70e306c87,passively.archi,available,14.98,132.98,medium,low,9,namecheap,,,15/09/2026 19:09
 46b4d3cf-7799-4c86-9ad7-c4b6a754d9c1,rite.archi,available,14.98,132.98,high,low,4,namecheap,,,09/09/2026 18:03
-77d56209-52ef-49ac-9509-913cc05542eb,nest.archi,available,24.99,,high,medium,4,name.com,,,
+77d56209-52ef-49ac-9509-913cc05542eb,nest.archi,available,13.14,83,high,medium,4,spaceship,,,29/09/2026 13:00
 3d2f9aaf-6f1b-4f25-9c09-9c400be4ffda,dinnertime.archi,available,14.98,132.98,high,low,10,namecheap,,,24/09/2026 22:22
+a499244f-9974-4856-81ba-10321ff4efae,saliva.archi,available,14.98,132.98,medium,low,6,namecheap,,,29/09/2026 13:54
 b1a3ddaa-c0ce-49b5-859b-7d500d78d2dc,buckle.archi,available,18.5,,medium,low,6,unstoppable,,,28/09/2026 18:30
 2a062dcc-5841-4849-b719-c3f3dde19334,serenely.archi,available,14.98,132.98,medium,low,8,namecheap,,,16/09/2026 01:06
+f29013c0-0be9-427e-94fd-b8c35283f7e9,sneaking.archi,available,13.14,83,medium,low,8,spaceship,,,29/09/2026 14:54
 be879f55-bed6-4a8b-b3b5-32ea6aa89152,appreciate.archi,available,14.98,132.98,high,low,10,namecheap,,,27/09/2026 06:44
 b58d5e98-9f3a-4f5d-ad4b-3a3ff63cdfd4,sensually.archi,available,14.98,132.98,medium,low,9,namecheap,,,16/09/2026 00:58
-33afd3ca-70ba-4c53-857d-16ce254f3468,singapore.archi,available,,,high,high,9,,,,
 ecb38bb6-648d-4168-8ef2-567d091644fe,barnet.archi,available,13.39,82.9,medium,low,6,porkbun,,,28/09/2026 20:56
 c7692e20-0e7d-4202-90fc-3c149c67c208,fla.archi,available,24.99,,high,low,3,name.com,,,
-65c3151f-e01e-491b-af57-a281d9ec4909,attilio.archi,available,19.99,103.99,medium,low,7,namesilo,,,21/09/2026 01:49
+65c3151f-e01e-491b-af57-a281d9ec4909,attilio.archi,available,19.99,103.99,high,low,7,namesilo,,,21/09/2026 01:49
 64735bc3-f062-452d-b8e9-d76de6737024,mortal.archi,available,24.99,136.99,high,low,6,name.com,,,13/08/2026 19:33
 8b19d9fc-9f2a-4870-ab5e-1747cf50884d,granting.archi,available,24.99,,high,low,8,name.com,,,
-d171495a-7e2a-44e9-b484-9fedbfd587ee,bud.archi,available,24.99,,high,low,3,name.com,,,
+d171495a-7e2a-44e9-b484-9fedbfd587ee,bud.archi,available,19.99,103.99,high,low,3,namesilo,,,29/09/2026 04:58
 2b23e5d2-0819-49d7-af5f-42493b9d443d,unspoilt.archi,available,14.98,132.98,medium,low,8,namecheap,,,12/09/2026 07:10
+ae9dbb38-1ce4-4a31-9668-5afdaee89e57,cir.archi,available,19.99,103.99,high,low,3,namesilo,,,29/09/2026 09:07
 6c83054d-a032-4b3f-9c01-e3a13ea376ad,het.archi,available,14.98,132.98,medium,low,3,namecheap,,,21/08/2026 02:20
 692fa460-85b8-4f00-b23f-227821c327cd,creaseless.archi,available,14.98,132.98,medium,low,10,namecheap,,,13/08/2026 05:47
 166b1181-0323-493e-8fca-d39b18582526,fundamentalism.archi,available,24.99,,medium,low,14,name.com,,,
 43eb5c78-87a6-4c47-ad01-8c73128e4fbd,grease.archi,available,13.14,83,high,low,6,spaceship,,,28/09/2026 14:21
 9fa1dc42-b240-48f8-9111-49b523d0f4e4,readably.archi,available,14.98,132.98,medium,low,8,namecheap,,,14/09/2026 11:08
 9443d053-52eb-4284-8f06-125b62d3fdc2,jetting.archi,available,14.98,132.98,high,low,7,namecheap,,,22/08/2026 13:09
+52231cc0-89ab-4df5-8f47-8ca96e8fb798,deceive.archi,available,18.5,,high,low,7,unstoppable,,,29/09/2026 20:40
 ce8f5acd-56c2-4d46-a181-eb221effab04,whittaker.archi,available,13.39,82.9,medium,low,9,porkbun,,,28/09/2026 16:41
 73f05d27-6dc1-4279-9788-7da0a4a34e3d,depleted.archi,available,14.98,132.98,medium,low,8,namecheap,,,14/08/2026 02:23
 ec63b277-5af8-4b76-8bcd-50ba684a14c3,lime.archi,available,14.98,132.98,high,low,4,namecheap,,,23/09/2026 20:42
+98ed7dca-c43e-4c3d-b29d-b9627c4888ce,marlon.archi,available,14.98,132.98,high,low,6,namecheap,,,29/09/2026 15:44
 5f63b851-e45c-4602-be75-9ee51f8ba3b1,xeric.archi,available,14.98,132.98,medium,low,5,namecheap,,,13/09/2026 14:07
 f3abd714-b6cb-4b00-aee1-5ed359578532,debonaire.archi,available,14.98,132.98,high,low,9,namecheap,,,12/08/2026 05:59
 9e5c4d46-c439-4cf9-b9b4-42cceab37e38,airburst.archi,available,19.99,103.99,medium,low,8,namesilo,,,17/09/2026 23:00
@@ -659,18 +723,20 @@ a366a7e3-426d-46e2-8eaa-656a427e7bf6,headfirst.archi,available,14.98,132.98,medi
 5262234c-4b4c-405d-92f1-4881ea10c698,fans.archi,available,24.99,136.99,medium,low,4,name.com,,,25/09/2026 21:32
 a0d693b7-6b44-4c2b-a1b2-47c61c493536,tragedy.archi,available,19.99,103.99,medium,low,7,namesilo,,,24/09/2026 11:39
 56806d14-b5d4-4f3a-a551-d45189269432,darrell.archi,available,19.99,103.99,low,low,7,namesilo,,,28/09/2026 13:15
-92bbb1d0-aea0-46ec-bded-1ed258f44310,budget.archi,available,24.99,,high,low,6,name.com,,,
+92bbb1d0-aea0-46ec-bded-1ed258f44310,budget.archi,available,19.99,103.99,high,low,6,namesilo,,,29/09/2026 05:05
 844df96d-322f-42a3-983d-2bc4b2ce1277,awkward.archi,available,19.99,103.99,high,low,7,namesilo,,,22/09/2026 15:31
 a73b4b8b-a45e-4a0d-9fb8-b77c5ebba71d,snidely.archi,available,14.98,132.98,low,low,7,namecheap,,,16/09/2026 03:18
+abe37e54-a15d-4219-b94d-ff5373e60c8f,rufous.archi,available,13.39,82.9,high,low,6,porkbun,,,29/09/2026 22:57
 1f30971b-2566-422a-a8d6-25d16e5ed37c,instant.archi,available,19.99,103.99,high,medium,7,namesilo,,,24/09/2026 02:22
 9133b087-94ce-4d87-9b88-a28658422261,bigamist.archi,available,19.99,103.99,medium,low,8,namesilo,,,23/09/2026 15:02
-444e8baf-187a-4d48-85b4-fd879f8a7acc,centimetre.archi,available,14.98,132.98,medium,low,10,namecheap,,,24/09/2026 13:35
+444e8baf-187a-4d48-85b4-fd879f8a7acc,centimetre.archi,available,14.98,132.98,high,low,10,namecheap,,,24/09/2026 13:35
 0dd6b466-ef63-4ee6-a74f-f5401f5bd6bd,als.archi,available,19.99,103.99,high,low,3,namesilo,,,18/09/2026 14:14
 106e1288-1199-4c6e-9650-be1d7ed600af,hairs.archi,available,19.99,103.99,medium,low,5,namesilo,,,28/09/2026 08:42
-863476d8-c921-42ad-b76c-97912c0c2029,tectonics.archi,available,19.99,103.99,medium,low,9,namesilo,,,20/09/2026 02:14
+863476d8-c921-42ad-b76c-97912c0c2029,tectonics.archi,available,19.99,103.99,high,low,9,namesilo,,,20/09/2026 02:14
+552d6595-337a-469a-ac4a-9bf5fbe3a5b1,mexicana.archi,available,18.5,,high,low,8,unstoppable,,,29/09/2026 09:18
 a64636f5-5d82-44b5-803e-e4187f2213a5,carpus.archi,available,19.99,103.99,medium,low,6,namesilo,,,20/09/2026 11:32
 79cbe35f-0398-491a-b0b5-2594cfbdb855,puzzling.archi,available,14.98,132.98,high,low,8,namecheap,,,17/08/2026 09:15
-c0661f3f-acf6-4469-9da1-74f5f2f364a7,curd.archi,available,14.98,132.98,medium,low,4,namecheap,,,24/09/2026 20:24
+c0661f3f-acf6-4469-9da1-74f5f2f364a7,curd.archi,available,14.98,132.98,high,low,4,namecheap,,,24/09/2026 20:24
 0d2bfe27-aff5-4534-93e0-b736f5207862,pondering.archi,available,14.98,132.98,high,low,9,namecheap,,,11/08/2026 06:01
 55c56b1c-62c7-4bdc-a034-fde6613a6b72,waits.archi,available,19.99,103.99,medium,low,5,namesilo,,,28/09/2026 11:43
 b24c36b1-6b2c-4dfb-ae3f-2b83c5d1006a,far.archi,available,24.99,136.99,high,low,3,name.com,,,24/09/2026 16:56
@@ -681,11 +747,11 @@ b76e5d35-c55d-43aa-a771-cc8fd4b40c1e,roast.archi,available,14.98,132.98,high,low
 7ef39edb-5ffa-42ba-b051-170431f3803e,acidity.archi,available,19.99,103.99,medium,low,7,namesilo,,,17/09/2026 01:24
 40166350-1355-48f4-a28a-01e34061d3a9,finals.archi,available,14.98,132.98,high,low,6,namecheap,,,18/09/2026 22:07
 bc46a11a-9653-4ba3-a15c-60b0b98bd3a2,redly.archi,available,14.98,132.98,medium,low,5,namecheap,,,15/09/2026 22:51
-e86848a1-4df4-43c1-b959-785a70423a59,toscanini.archi,available,14.98,132.98,medium,low,9,namecheap,,,20/09/2026 12:05
+e86848a1-4df4-43c1-b959-785a70423a59,toscanini.archi,available,14.98,132.98,high,low,9,namecheap,,,20/09/2026 12:05
 6ff8a8c9-687d-4433-a198-01b9988f8209,storing.archi,available,13.14,83,high,low,7,spaceship,,,28/09/2026 02:45
 73d70670-c6ba-4466-8233-a308328e2e27,chiefs.archi,available,19.99,103.99,medium,low,6,namesilo,,,18/09/2026 03:19
 46406d08-f2cf-4b93-9d5e-0bbaf77720d4,slant.archi,available,14.98,132.98,high,low,5,namecheap,,,22/08/2026 22:07
-17240c8a-77f0-4bc9-8b12-b5194df73c21,evanescent.archi,available,14.98,132.98,medium,low,10,namecheap,,,17/08/2026 14:37
+17240c8a-77f0-4bc9-8b12-b5194df73c21,evanescent.archi,available,14.98,132.98,high,low,10,namecheap,,,17/08/2026 14:37
 3c994eb2-c4cf-4270-a1ae-7b7f75c52794,delible.archi,available,14.98,132.98,low,low,7,namecheap,,,14/08/2026 00:35
 f9008b33-e9c5-405a-bb73-74641bf6803e,serpent.archi,available,18.5,,medium,low,7,unstoppable,,,29/09/2026 01:45
 f8807af6-21b0-4f5c-be5c-b0886cf83ce2,others.archi,available,19.99,103.99,high,low,6,namesilo,,,25/09/2026 16:48
@@ -694,6 +760,7 @@ f8807af6-21b0-4f5c-be5c-b0886cf83ce2,others.archi,available,19.99,103.99,high,lo
 247aef2a-d2f9-496a-9a35-4bd42695eea7,softback.archi,available,14.98,132.98,medium,low,8,namecheap,,,05/09/2026 01:13
 cfcfc84a-8993-47f9-864e-6e6207c2998b,frick.archi,available,18.5,,medium,low,5,unstoppable,,,29/09/2026 01:01
 0aac7d11-a0bc-4160-84de-ff7547a36a95,abstention.archi,available,14.98,132.98,medium,low,10,namecheap,,,16/09/2026 18:27
+5a93cc56-1dec-409f-89ae-b238168d0489,ankles.archi,available,13.14,83,medium,low,6,spaceship,,,30/09/2026 00:20
 cd4ea709-e342-45b8-9e67-afbec221c18f,actresses.archi,available,19.99,103.99,medium,low,9,namesilo,,,20/09/2026 05:14
 c2978771-e6cf-47a5-bfe8-987df497e1a5,tastes.archi,available,19.99,103.99,medium,low,6,namesilo,,,19/09/2026 00:38
 365678d3-d798-4e11-8dd0-90441756ffd9,tycoon.archi,available,19.99,103.99,high,low,6,namesilo,,,23/09/2026 14:18
@@ -705,20 +772,21 @@ c2978771-e6cf-47a5-bfe8-987df497e1a5,tastes.archi,available,19.99,103.99,medium,
 23f3e224-8436-42b7-a8ef-82c0a0e2cd1e,monty.archi,available,13.14,83,medium,low,5,spaceship,,,28/09/2026 11:58
 43ff3159-9426-42dd-b989-3f99c8ce707a,participate.archi,available,13.14,83,high,low,11,spaceship,,,28/09/2026 07:01
 a9ab2bc4-c5bc-45bc-9f4b-d1605b5d3185,conversations.archi,available,18.5,,medium,low,13,unstoppable,,,28/09/2026 08:58
-f043a9df-e992-4899-8b4b-440bdc3d17c7,primer.archi,available,24.99,,high,low,6,name.com,,,
+f043a9df-e992-4899-8b4b-440bdc3d17c7,primer.archi,available,18.5,,high,low,6,unstoppable,,,29/09/2026 19:29
 43591e52-07b8-43fd-ad28-1ee906c9e302,constancy.archi,available,19.99,103.99,high,low,9,namesilo,,,24/09/2026 17:32
 dfe22aae-d79d-48df-b662-508f62feb3db,antefix.archi,available,14.98,132.98,high,low,7,namecheap,,,19/09/2026 12:49
 771a376e-d168-4e1c-a22a-aad4195701bf,fertile.archi,available,14.98,132.98,high,low,7,namecheap,,,18/08/2026 02:11
 a6a4e921-a2bb-4e7f-a461-908eb2352596,expedience.archi,available,14.98,132.98,medium,low,10,namecheap,,,10/09/2026 02:11
-fdb32b3b-1ede-4d87-9547-fcd9152ee140,tantrum.archi,available,14.98,132.98,medium,low,7,namecheap,,,18/08/2026 05:41
+fdb32b3b-1ede-4d87-9547-fcd9152ee140,tantrum.archi,available,14.98,132.98,high,low,7,namecheap,,,18/08/2026 05:41
 58c98ae9-78c8-40d0-a0dd-88cfab5056a0,fewer.archi,available,19.99,103.99,medium,low,5,namesilo,,,24/09/2026 17:41
 492dfb01-4237-4c9a-b905-8913d8e0cf3b,lubbock.archi,available,19.99,103.99,medium,low,7,namesilo,,,28/09/2026 10:18
 e11d7db6-d702-4c51-aaf2-66768eda53a7,coral.archi,available,14.98,132.98,high,low,5,namecheap,,,23/09/2026 23:19
 3bea8ad7-d27c-4784-aa82-717180d249b6,pays.archi,available,19.99,103.99,medium,low,4,namesilo,,,25/09/2026 17:21
 58330441-88de-449f-8b5d-94999a3b1911,dickey.archi,available,14.98,132.98,medium,low,6,namecheap,,,14/08/2026 06:29
+774d7102-caaa-4c4a-854a-e741dfdda5bb,combining.archi,available,18.5,,high,low,9,unstoppable,,,29/09/2026 18:23
 d745e7d6-79ea-4de4-b430-8c5a22fc4219,watchfully.archi,available,19.99,103.99,medium,low,10,namesilo,,,16/09/2026 10:58
 03465aa4-fda7-433e-84d0-6a887a2b00d0,slaphappy.archi,available,14.98,132.98,medium,low,9,namecheap,,,14/08/2026 05:04
-8d815415-5ef9-41ce-863a-a3860c921562,swain.archi,available,19.99,103.99,medium,low,5,namesilo,,,22/09/2026 21:56
+8d815415-5ef9-41ce-863a-a3860c921562,swain.archi,available,19.99,103.99,high,low,5,namesilo,,,22/09/2026 21:56
 657ce319-8d7e-402f-b799-c3fde2c0e787,aden.archi,available,19.99,103.99,medium,low,4,namesilo,,,17/09/2026 07:22
 99031141-994b-4248-b0d3-4200893c51ee,feasting.archi,available,19.99,103.99,high,low,8,namesilo,,,22/09/2026 03:07
 25e9914b-1285-442b-bb61-b17eee220573,acrimony.archi,available,14.98,132.98,medium,low,8,namecheap,,,17/09/2026 03:09
@@ -728,6 +796,7 @@ b3a6fc03-9ed6-4d2b-bc5c-ffceab038ef1,weightless.archi,available,14.98,132.98,hig
 096ec9b0-efe0-4335-8282-dfef93887360,vigilance.archi,available,19.99,103.99,high,low,9,namesilo,,,18/09/2026 05:28
 99bbe095-3c67-4978-b76b-1dcd9085adce,waving.archi,available,18.5,,high,low,6,unstoppable,,,28/09/2026 15:32
 1edd8892-339c-421a-8db0-9076b7d9563e,trio.archi,available,19.99,103.99,high,low,4,namesilo,,,21/09/2026 13:05
+742fdbac-736f-4704-b6f7-76be18e9cfc4,duet.archi,available,13.39,82.9,high,low,4,porkbun,,,29/09/2026 18:31
 58861891-576e-47d2-ae9d-6904c9241ed3,disulfiram.archi,available,19.99,103.99,medium,low,10,namesilo,,,19/09/2026 12:22
 0cd86398-e167-4f4f-b019-c8808edb3358,thresher.archi,available,19.99,103.99,medium,low,8,namesilo,,,18/09/2026 13:23
 d97e0798-0974-4c93-9523-8d0a661140aa,ventura.archi,available,14.98,132.98,high,low,7,namecheap,,,25/09/2026 16:33
@@ -735,6 +804,7 @@ d97e0798-0974-4c93-9523-8d0a661140aa,ventura.archi,available,14.98,132.98,high,l
 cbf2a657-3482-45ac-847d-4b419196ff55,flows.archi,available,19.99,103.99,medium,low,5,namesilo,,,28/09/2026 22:43
 b7bf1839-d7f3-498b-a3d9-0d8639cb80ec,heralded.archi,available,14.98,132.98,medium,low,8,namecheap,,,21/08/2026 06:51
 4448c349-8592-47dc-8e5f-ec03f7f5d43e,stack.archi,available,14.98,132.98,high,medium,5,namecheap,,,25/08/2026 00:45
+79c1aea2-3d19-4195-a0a5-6e1281decd44,messing.archi,available,18.5,,medium,low,7,unstoppable,,,29/09/2026 22:01
 e9032f21-f306-4876-90be-b53801f3a0f6,chains.archi,available,24.99,136.99,high,low,6,name.com,,,27/09/2026 12:26
 75e16ef2-2edc-4e4b-a2c8-1d7fbd31d1ba,monday.archi,available,24.99,,high,low,6,name.com,,,
 3fe25300-0279-46d2-9045-aa068ed6d405,masonic.archi,available,14.98,132.98,high,low,7,namecheap,,,24/08/2026 16:39
@@ -742,7 +812,7 @@ e9032f21-f306-4876-90be-b53801f3a0f6,chains.archi,available,24.99,136.99,high,lo
 c5fe3ccd-c4c9-469e-b9ad-c30cc9da0068,arsenal.archi,available,19.99,103.99,high,low,7,namesilo,,,20/09/2026 09:36
 5d3c73d0-d37b-46b3-9081-8f1c3b2221a9,humbly.archi,available,14.98,132.98,high,low,6,namecheap,,,15/09/2026 01:22
 c617c2a7-e005-4770-9938-455b3859fee8,homo.archi,available,14.98,132.98,high,low,4,namecheap,,,18/08/2026 20:57
-450034e5-670f-418a-8a45-5624a6942b69,assumption.archi,available,19.99,103.99,medium,low,10,namesilo,,,20/09/2026 16:39
+450034e5-670f-418a-8a45-5624a6942b69,assumption.archi,available,19.99,103.99,high,low,10,namesilo,,,20/09/2026 16:39
 005ef1cc-6baa-468e-a021-e16749946644,distressed.archi,available,14.98,132.98,medium,low,10,namecheap,,,14/08/2026 12:16
 ffd6b5ca-2aac-442a-b065-9bcf3fc56630,arching.archi,available,14.98,132.98,high,low,7,namecheap,,,06/08/2026 14:39
 225fb846-fded-4ea0-b77e-bcb60afd173e,pretender.archi,available,14.98,132.98,high,low,9,namecheap,,,08/09/2026 19:12
@@ -766,29 +836,29 @@ fcb666db-d01d-4c97-b5fd-437279015814,knocker.archi,available,14.98,132.98,medium
 3644d0d0-7219-44c9-9522-4eb2c752824b,tottering.archi,available,14.98,132.98,medium,low,9,namecheap,,,11/09/2026 18:14
 b798c5ae-92bf-4273-af4f-1bf1d23a4d92,aboveboard.archi,available,14.98,132.98,medium,low,10,namecheap,,,
 1f633375-8c9c-4efe-9999-baf869e5c19f,unscathed.archi,available,14.98,132.98,high,low,9,namecheap,,,12/09/2026 12:03
-f4da449d-50fd-42c9-beb1-5128123bbede,incisive.archi,available,14.98,132.98,medium,low,8,namecheap,,,22/08/2026 01:21
+f4da449d-50fd-42c9-beb1-5128123bbede,incisive.archi,available,14.98,132.98,high,low,8,namecheap,,,22/08/2026 01:21
 a183e65d-8f58-4674-9682-429f9d80d087,tramp.archi,available,14.98,132.98,high,low,5,namecheap,,,10/09/2026 22:07
 8eb8ba50-996f-4955-9529-48ab99d1e0af,secondly.archi,available,14.98,132.98,medium,low,8,namecheap,,,27/09/2026 19:26
 5a3fee7b-b6f5-418c-9e88-94de6978db37,asteraceae.archi,available,14.98,132.98,medium,low,10,namecheap,,,20/09/2026 17:03
 382123c6-8fdb-4fa2-842d-7edccc7e4769,requested.archi,available,13.14,83,high,low,9,spaceship,,,27/09/2026 12:02
-dba831e8-e206-4481-baa9-739a272e4b91,revolt.archi,available,24.99,,high,low,6,name.com,,,
+dba831e8-e206-4481-baa9-739a272e4b91,revolt.archi,available,13.39,82.9,high,low,6,porkbun,,,29/09/2026 15:48
 1a20162d-a783-4400-b8db-6d55381c0cae,returns.archi,available,19.99,103.99,high,low,7,namesilo,,,17/09/2026 17:19
 bbffd6b7-ec03-406d-b4fe-9342f62fe507,helped.archi,available,14.98,132.98,medium,low,6,namecheap,,,25/09/2026 18:33
 c3d27db7-2068-4fb7-871b-f96f8f2a790c,proficiency.archi,available,24.99,,high,low,11,name.com,,,
 6d503122-82b4-45a0-8b42-be1c553e45f3,assurgent.archi,available,14.98,132.98,medium,low,9,namecheap,,,07/08/2026 08:26
 1c6b27ba-9fc9-4fb7-9892-d311509a7a18,ill.archi,available,14.98,132.98,high,low,3,namecheap,,,25/09/2026 07:33
 5bdd69ae-7f97-4e08-bb77-ead6d9b26d41,peninsular.archi,available,14.98,132.98,high,low,10,namecheap,,,08/09/2026 14:28
-f01072e3-9e78-4e41-bf6c-5a632d25823a,discontent.archi,available,14.98,132.98,medium,low,10,namecheap,,,14/08/2026 09:59
+f01072e3-9e78-4e41-bf6c-5a632d25823a,discontent.archi,available,14.98,132.98,high,low,10,namecheap,,,14/08/2026 09:59
 2dccc6c7-aef8-4e5e-8ebd-0c684509fcd7,healthily.archi,available,14.98,132.98,medium,low,9,namecheap,,,14/09/2026 23:15
 fa5e73dd-09a9-4fbc-9e94-84341b585fe0,birdwatch.archi,available,14.98,132.98,high,low,9,namecheap,,,23/09/2026 19:35
 c9e9bf1b-6ba7-4f7b-95dc-b25c4a77c5fa,ignorance.archi,available,19.99,103.99,medium,low,9,namesilo,,,28/09/2026 10:08
 4d7884f4-b01a-474b-a5e6-7b597f6e747c,pcb.archi,available,19.99,103.99,high,low,3,namesilo,,,28/09/2026 17:13
 a43e0ec7-107a-40a5-a9fa-6fa0dd7474c5,moorish.archi,available,14.98,132.98,high,low,7,namecheap,,,25/08/2026 05:59
-8c400d0f-ed56-44bb-92b0-43b35e17d1b2,disparity.archi,available,24.99,,medium,low,9,name.com,,,
+8c400d0f-ed56-44bb-92b0-43b35e17d1b2,disparity.archi,available,13.14,83,high,low,9,spaceship,,,29/09/2026 16:06
 927103c2-4e96-439f-99c7-eb2168c3eaa7,kenny.archi,available,19.99,103.99,medium,low,5,namesilo,,,26/09/2026 03:38
 40d281b5-b5ea-4921-9c31-d95550006a3f,arcsin.archi,available,19.99,103.99,medium,low,6,namesilo,,,20/09/2026 01:26
 5ed4e716-e159-47ac-a68f-d00489db8858,zheng.archi,available,18.5,,medium,low,5,unstoppable,,,28/09/2026 11:37
-e1d05c99-4abf-4121-a8ae-c875e8fd6203,informing.archi,available,24.99,,high,low,9,name.com,,,
+e1d05c99-4abf-4121-a8ae-c875e8fd6203,informing.archi,available,13.14,83,high,low,9,spaceship,,,30/09/2026 00:09
 5dbc29e5-528f-4fe0-8aa9-f2652fd89239,slideshow.archi,available,24.99,,high,low,10,name.com,,,
 acfe734d-7c63-48db-a857-803643245a27,unstable.archi,available,14.98,132.98,high,low,8,namecheap,,,18/08/2026 09:17
 393e9326-b9ea-496c-9f7c-ec25c3f55fb1,stilted.archi,available,14.98,132.98,medium,low,7,namecheap,,,10/09/2026 20:37
@@ -798,21 +868,22 @@ a586a6bb-dfd6-4f60-84e6-803d6332747d,zygoma.archi,available,19.99,103.99,medium,
 f760e302-ab3b-4d4d-abd3-9ca9f5a59d9d,styleless.archi,available,14.98,132.98,medium,low,9,namecheap,,,10/09/2026 23:15
 093cf11e-47c5-4afe-a60f-9b1956164b20,subscriber.archi,available,14.98,132.98,high,low,10,namecheap,,,24/09/2026 17:47
 6827f026-8f17-4371-aad7-30154cbedda0,knotted.archi,available,14.98,132.98,medium,low,7,namecheap,,,20/08/2026 15:40
-75981e50-29aa-45a5-8fff-dfa707de553e,dime.archi,available,24.99,,high,low,4,name.com,,,
+75981e50-29aa-45a5-8fff-dfa707de553e,dime.archi,available,14.98,132.98,high,low,4,namecheap,,,29/09/2026 14:59
 d0e99523-ebe0-4dc5-9cbb-c7b6c867840c,ooze.archi,available,14.98,132.98,high,low,4,namecheap,,,04/09/2026 15:40
 12d55451-6af4-4a81-9ce3-2c7a44034d06,bookshop.archi,available,14.98,132.98,high,low,8,namecheap,,,24/09/2026 07:16
 ecfd5549-77fd-4844-bd48-8177eb17fa3f,algin.archi,available,19.99,103.99,medium,low,5,namesilo,,,18/09/2026 07:04
 6d62be68-ed82-44cc-8313-ba0a7921d8d5,slapdash.archi,available,14.98,132.98,medium,low,8,namecheap,,,10/09/2026 09:57
 0f96b6b6-ba52-44ca-b781-45492dd33a86,furnishings.archi,available,14.98,132.98,high,low,11,namecheap,,,16/09/2026 18:36
 ffec678b-8fb3-4759-b722-2db6627c1d7d,winterhaven.archi,available,24.99,,medium,low,12,name.com,,,
-7f003b62-0773-4ac2-910b-90218ce9929d,cogent.archi,available,14.98,132.98,medium,low,6,namecheap,,,12/08/2026 15:33
+7f003b62-0773-4ac2-910b-90218ce9929d,cogent.archi,available,14.98,132.98,high,low,6,namecheap,,,12/08/2026 15:33
 e213aa9b-9b42-43bf-88ae-02585beea388,cleverness.archi,available,19.99,103.99,high,low,10,namesilo,,,24/09/2026 15:36
 807cf55b-9bed-4f7f-9963-20c54875020b,ahem.archi,available,14.98,132.98,high,low,4,namecheap,,,17/09/2026 20:20
 04e74669-d28b-4a82-98e8-48d82c5a41f5,annelida.archi,available,14.98,132.98,medium,low,8,namecheap,,,19/09/2026 10:23
-276b1b97-ebd4-4f7c-8f39-9f908eb76a7a,twitter.archi,available,24.99,,high,low,7,name.com,,,
+276b1b97-ebd4-4f7c-8f39-9f908eb76a7a,twitter.archi,available,19.99,103.99,high,low,7,namesilo,,,29/09/2026 08:45
 10d81744-9513-4e6a-a5ec-c4104845206c,toller.archi,available,14.98,132.98,medium,low,6,namecheap,,,23/09/2026 05:41
 13770b24-c559-48a7-89ff-735efd68098a,dusk.archi,available,14.98,132.98,high,low,4,namecheap,,,11/09/2026 21:39
 5d57e0cd-88c1-4c5f-9ddf-3bdde3ed91d4,athos.archi,available,14.98,132.98,medium,low,5,namecheap,,,20/09/2026 21:17
+b9662858-c6bd-4b03-a168-50e12d96bf54,prosecute.archi,available,19.99,103.99,high,low,9,namesilo,,,29/09/2026 20:42
 4cc4f930-bbcb-4eb6-87f6-b224e6416f5e,bestial.archi,available,14.98,132.98,medium,low,7,namecheap,,,09/08/2026 17:57
 0586b61d-6f3e-4c7f-8b92-c8b9baa8302e,easter.archi,available,19.99,103.99,high,low,6,namesilo,,,24/09/2026 13:11
 4a444576-d88e-4ea9-863b-221de2887691,sexist.archi,available,14.98,132.98,medium,low,6,namecheap,,,10/09/2026 05:14
@@ -827,7 +898,7 @@ c7bde73f-b3e6-478e-b105-ed889cd46740,flashy.archi,available,14.98,132.98,high,lo
 bbf428b5-be86-4f68-90bb-af292f600800,elegantly.archi,available,14.98,132.98,high,low,9,namecheap,,,14/09/2026 15:17
 d899746f-8647-4533-8388-ed3c99c01cf8,transeunt.archi,available,14.98,132.98,medium,low,9,namecheap,,,11/09/2026 18:53
 ff929c4b-cb36-4103-9597-8d923cb9b6af,squawk.archi,available,19.99,103.99,high,low,6,namesilo,,,23/09/2026 00:25
-4ebe235d-5dd3-4499-ba19-a51443f0fbc0,cloudburst.archi,available,19.99,103.99,medium,low,10,namesilo,,,24/09/2026 16:03
+4ebe235d-5dd3-4499-ba19-a51443f0fbc0,cloudburst.archi,available,19.99,103.99,high,low,10,namesilo,,,24/09/2026 16:03
 3ee528a1-2fa6-4df4-a616-f07891d0deff,velvety.archi,available,14.98,132.98,high,low,7,namecheap,,,13/09/2026 02:00
 ebdd5524-9790-4e06-8b8e-47aef47974bc,abstruse.archi,available,14.98,132.98,medium,low,8,namecheap,,,
 ce2608ff-21d1-4a25-8ed8-7eb4c61d7be0,xxviii.archi,available,14.98,132.98,medium,low,6,namecheap,,,
@@ -835,7 +906,8 @@ ce2608ff-21d1-4a25-8ed8-7eb4c61d7be0,xxviii.archi,available,14.98,132.98,medium,
 496d9966-3917-42b5-aa60-49359cf406f6,aneurin.archi,available,19.99,103.99,medium,low,7,namesilo,,,19/09/2026 05:40
 5241fa69-07d2-4a9d-b3cc-80a27f58659f,plaster.archi,available,14.98,132.98,high,low,7,namecheap,,,17/09/2026 07:59
 c915cd77-cfa5-48eb-a55d-d995d6022ab4,khalid.archi,available,14.98,132.98,medium,low,6,namecheap,,,28/09/2026 22:21
-7f823a2c-fd78-43aa-930c-39b40aca4662,isle.archi,available,24.99,,high,low,4,name.com,,,
+7f823a2c-fd78-43aa-930c-39b40aca4662,isle.archi,available,18.5,,high,low,4,unstoppable,,,30/09/2026 00:26
+27a1e1d0-1b85-4362-974e-e2fb6eb9d957,pottery.archi,available,14.98,132.98,high,low,7,namecheap,,,29/09/2026 06:22
 429ed1ae-a05e-485e-ab15-54e749d1ea1a,pettily.archi,available,14.98,132.98,low,low,7,namecheap,,,15/09/2026 19:44
 29bf54af-f52a-4f52-b943-29ea7c1fae36,objective.archi,available,14.98,132.98,high,low,9,namecheap,,,03/09/2026 20:47
 8d842cea-a039-47d5-9ae6-b38718e93d98,surviving.archi,available,14.98,132.98,high,low,9,namecheap,,,11/09/2026 04:49
@@ -847,15 +919,15 @@ e799f19d-9e38-4a40-9278-7759c05d182c,overjoy.archi,available,24.99,,high,low,7,n
 85e02256-2121-4f81-aa55-9a6a4bb338ae,agnate.archi,available,14.98,132.98,medium,low,6,namecheap,,,
 f1c398d4-0225-45d3-aad0-1a69f37632a5,comedians.archi,available,19.99,103.99,medium,low,9,namesilo,,,19/09/2026 23:33
 98be248e-fd95-4273-af63-254d9f22d96d,ips.archi,available,13.14,83,high,low,3,spaceship,,,29/09/2026 03:50
+62eac8d6-1830-4ff0-b822-4800f7e01594,psychiatry.archi,available,13.14,83,high,low,10,spaceship,,,29/09/2026 20:04
 ee1435fd-83e7-4e42-b8af-30a8809a95a5,returning.archi,available,13.14,83,high,low,9,spaceship,,,27/09/2026 13:35
 a4b71a43-e0c2-4dff-ba2f-dd9305dd5c34,sip.archi,available,24.99,,high,low,3,name.com,,,
 3c0d1481-7968-44c9-b8f2-3471955f9546,mattresses.archi,available,19.99,103.99,medium,low,10,namesilo,,,20/09/2026 14:45
 fe18e458-083f-4bbb-9ba0-208ea8d51962,angstrom.archi,available,19.99,103.99,medium,low,8,namesilo,,,16/09/2026 12:44
-a4b59c7f-a306-4029-ae91-f3eca2f3a30a,ford.archi,available,,,high,high,4,,,,
 3de52ca6-46ac-486b-b88c-570dc8ed2f4d,patristic.archi,available,14.98,132.98,medium,low,9,namecheap,,,08/09/2026 10:38
 db62eaf3-a2ee-4347-bdcd-eeac1c4bfd4f,dendroid.archi,available,14.98,132.98,medium,low,8,namecheap,,,06/08/2026 13:50
 e932ee10-fdf5-460c-999b-9c59f35fd604,interests.archi,available,19.99,103.99,high,low,9,namesilo,,,25/09/2026 16:44
-ec89a6c8-0a21-47a7-9011-cefb230d341f,sewer.archi,available,13.14,83,medium,low,5,spaceship,,,28/09/2026 15:19
+ec89a6c8-0a21-47a7-9011-cefb230d341f,sewer.archi,available,13.14,83,high,low,5,spaceship,,,28/09/2026 15:19
 bc15d6f4-08c9-471a-ac54-5289e55d6bb2,abbey.archi,available,19.99,103.99,high,low,5,namesilo,,,16/09/2026 14:25
 c8423b7c-4a30-4bd3-8890-31071c7cc951,aggro.archi,available,14.98,132.98,medium,low,5,namecheap,,,17/09/2026 17:46
 bf65db16-0734-4d97-bc40-b6901dc174f5,studious.archi,available,14.98,132.98,high,low,8,namecheap,,,10/08/2026 19:10
@@ -870,21 +942,24 @@ a1ffe59c-fc2a-40c5-acc1-a047560f67df,lackawanna.archi,available,13.14,83,medium,
 6f37691c-ad5e-4b0a-90a7-c877bc37da9d,mashhad.archi,available,14.98,132.98,medium,low,7,namecheap,,,24/08/2026 20:59
 a43bb869-721b-4825-aeab-3ec90b89afb8,beecher.archi,available,19.99,103.99,medium,low,7,namesilo,,,23/09/2026 00:12
 c0d77904-061b-431e-8db9-7e5de6d69a6b,maunder.archi,available,19.99,103.99,medium,low,7,namesilo,,,23/09/2026 23:31
-fe8a7e9a-2f1f-4a9b-b57e-33e32ccae950,triplex.archi,available,14.98,132.98,medium,low,7,namecheap,,,11/09/2026 11:51
+fe8a7e9a-2f1f-4a9b-b57e-33e32ccae950,triplex.archi,available,14.98,132.98,high,low,7,namecheap,,,11/09/2026 11:51
 74d69cc9-6c08-491c-99fd-e816d661ea08,confirmed.archi,available,14.98,132.98,high,low,9,namecheap,,,23/09/2026 19:53
 90823e1d-6c2f-434e-bc9f-39d39361d019,bessie.archi,available,19.99,103.99,medium,low,6,namesilo,,,28/09/2026 03:55
 0d5c2ce8-316c-4fad-988d-bc80a6b4b9c3,dinar.archi,available,19.99,103.99,high,low,5,namesilo,,,18/09/2026 07:02
 a281056c-63ec-4abd-b310-3d54e4f35ad4,aerial.archi,available,14.98,132.98,high,low,6,namecheap,,,
 039e9ca4-693b-403f-b515-6329f81d5c41,specification.archi,available,24.99,,high,low,13,name.com,,,
-a7611717-da4a-4d8e-900b-48d50ca85e95,ivanov.archi,available,13.39,82.9,medium,low,6,porkbun,,,29/09/2026 01:22
+a7611717-da4a-4d8e-900b-48d50ca85e95,ivanov.archi,available,13.39,82.9,high,low,6,porkbun,,,29/09/2026 01:22
 55265ef1-bd11-4c5c-bb79-2ef321fc4bca,designs.archi,premium,195,195,high,low,7,namecheap,,,28/09/2026 04:06
+2232e5b5-f9c3-45b9-a6b1-f29379e66d18,flexibility.archi,available,13.14,83,high,low,11,spaceship,,,29/09/2026 16:16
 7a5d4903-fff3-40ba-a9fb-5f2fe4d688b3,affiliate.archi,available,13.14,83,high,low,9,spaceship,,,28/09/2026 19:17
 bb292ff8-130d-4c78-8b28-dc7c534a756d,macaronic.archi,available,14.98,132.98,medium,low,9,namecheap,,,24/08/2026 12:44
 9c025461-e29d-45ff-8781-7facecaff1c3,alvine.archi,available,14.98,132.98,medium,low,6,namecheap,,,
+6aaeb77b-c525-43d6-8e93-e5427f1c9ea0,laurens.archi,available,14.98,132.98,high,low,7,namecheap,,,29/09/2026 07:10
 2b304b55-9c37-451a-bdac-2801003ab9fc,separated.archi,available,19.99,103.99,medium,low,9,namesilo,,,19/09/2026 04:08
 38650053-ac9b-4e30-8b21-d6cf0556b617,esther.archi,available,14.98,132.98,high,low,6,namecheap,,,24/09/2026 06:50
 8d69df76-888a-42de-bed4-47992fc18cba,frequency.archi,available,14.98,132.98,high,low,9,namecheap,,,16/09/2026 17:49
 d6414f73-69f3-44f6-9f0f-63b8c2dcea6b,arouse.archi,available,14.98,132.98,high,low,6,namecheap,,,07/08/2026 23:59
+8d5d1473-b5ff-404c-bfe6-3d5b6500a215,spawn.archi,available,18.5,,high,low,5,unstoppable,,,30/09/2026 00:52
 df4b0bf2-fb36-44c1-a13e-bd6e9300a940,bonefish.archi,available,19.99,103.99,high,low,8,namesilo,,,18/09/2026 03:25
 044ddf2a-015c-4ff8-ae34-a600d7ec13e2,deity.archi,available,14.98,132.98,high,low,5,namecheap,,,24/09/2026 21:23
 cc5dba28-e191-48a1-8288-bfcd01e61f01,smiled.archi,available,19.99,103.99,medium,low,6,namesilo,,,18/09/2026 01:26
@@ -901,7 +976,8 @@ dfce7bbc-3ca0-4817-b6db-05fc78148c88,ayr.archi,available,19.99,103.99,high,low,3
 22325fe9-016a-4622-bd19-66dfc06fb736,zhang.archi,available,19.99,103.99,high,low,5,namesilo,,,25/09/2026 15:58
 01f0fc25-b1c6-4590-b5c0-fe3df0d085e4,rudderless.archi,available,14.98,132.98,medium,low,10,namecheap,,,
 c54f1da0-9880-4eee-bee9-ea843995fe50,rubidium.archi,available,14.98,132.98,medium,low,8,namecheap,,,20/09/2026 22:58
-969fa6c6-5126-42c8-87b4-b2da568b5e8d,sensing.archi,available,24.99,,high,low,7,name.com,,,
+969fa6c6-5126-42c8-87b4-b2da568b5e8d,sensing.archi,available,19.99,103.99,high,low,7,namesilo,,,29/09/2026 14:15
+3176a80f-75d5-4981-9094-dd5349283e3c,famine.archi,available,18.5,,medium,low,6,unstoppable,,,29/09/2026 12:01
 bbb76942-cc17-40f2-aa7c-2654847dc9aa,chapter.archi,available,19.99,103.99,high,low,7,namesilo,,,24/09/2026 13:43
 362dad8b-f0c7-4c55-94b3-6d2b9758a703,hahn.archi,available,19.99,103.99,high,low,4,namesilo,,,27/09/2026 04:20
 bb62c2a5-f0da-494d-a4a6-62c62057db08,ytterbium.archi,available,24.99,136.99,medium,low,9,name.com,,,20/09/2026 23:38
@@ -911,6 +987,7 @@ c3761c57-de7f-46d7-8f8e-75f64b6e3be6,tapping.archi,available,13.14,83,high,low,7
 ecea9b81-c700-40c6-b722-ce1b10ba1708,argive.archi,available,14.98,132.98,medium,low,6,namecheap,,,06/08/2026 18:27
 8518b790-651d-415b-9a6b-611946812fef,chickens.archi,available,19.99,103.99,medium,low,8,namesilo,,,27/09/2026 22:56
 8b6a3f78-b7e7-41fa-8897-ad04972de913,opportune.archi,available,14.98,132.98,high,low,9,namecheap,,,04/09/2026 16:43
+df63deac-ab9b-479a-b11a-2db9298f3611,hee.archi,available,14.98,132.98,high,low,3,namecheap,,,29/09/2026 21:26
 2f24f0e0-502d-48d3-8e3d-36f56b73a5ae,insolvent.archi,available,14.98,132.98,medium,low,9,namecheap,,,08/08/2026 13:34
 3fad89bc-d33f-4470-ad9f-15d48681cebf,jargon.archi,available,14.98,132.98,high,low,6,namecheap,,,13/09/2026 04:10
 27392a40-0a9b-4b32-a53b-1c3237be70e4,eponymous.archi,available,14.98,132.98,high,low,9,namecheap,,,17/08/2026 11:29
@@ -922,80 +999,3 @@ a3483be7-a31c-4df4-b530-22daca39607c,shelley.archi,available,14.98,132.98,medium
 c09407b3-74e9-4d18-9cc3-374bfa3881b8,nonesuch.archi,available,14.98,132.98,high,low,8,namecheap,,,03/09/2026 20:13
 2e9491ac-cad9-4b8c-9ded-461896936b55,expectant.archi,available,14.98,132.98,high,low,9,namecheap,,,22/09/2026 06:48
 10dc4486-05dd-4a0a-ab49-3a69ab80aff3,spheres.archi,available,19.99,103.99,medium,low,7,namesilo,,,20/09/2026 04:06
-c4e37a77-460a-435a-b0be-ac0c4a2e88bc,flowered.archi,available,14.98,132.98,high,low,8,namecheap,,,18/08/2026 08:56
-1f80edb4-1ec9-44a2-8336-85bede2202f0,bronze.archi,available,19.99,103.99,high,low,6,namesilo,,,23/09/2026 09:58
-3f4fa0b3-b160-4841-8a01-28985b8c14ad,crushed.archi,available,14.98,132.98,high,low,7,namecheap,,,13/08/2026 09:11
-133283ba-d0e3-412e-b27f-8d3811b9ee16,winless.archi,available,14.98,132.98,medium,low,7,namecheap,,,13/09/2026 12:35
-945e819b-0485-4250-bcbc-7b50681a22af,profits.archi,available,18.5,,high,low,7,unstoppable,,,28/09/2026 05:34
-7b190e5c-a10d-496c-b4d0-e93bacac372f,herself.archi,available,19.99,103.99,medium,low,7,namesilo,,,26/09/2026 03:24
-2624ad2b-5422-4f1a-8ca2-9d904c836b6d,adapa.archi,available,19.99,103.99,medium,low,5,namesilo,,,17/09/2026 06:23
-e4ec01d7-9489-406d-8151-58a99ad29b0c,defensive.archi,available,14.98,132.98,high,low,9,namecheap,,,13/08/2026 23:15
-a69b1591-ae37-492b-afec-531e656627b4,howling.archi,available,14.98,132.98,high,low,7,namecheap,,,21/08/2026 14:24
-2a5d2691-c4eb-413b-8768-c00050f6c914,stated.archi,available,14.98,132.98,high,low,6,namecheap,,,10/09/2026 19:08
-64d1874a-ca34-4d0d-a67c-b304c284d31a,footing.archi,available,14.98,132.98,high,low,7,namecheap,,,22/09/2026 11:02
-ccc4e9db-3bc9-4d5f-bbc3-6c64f1f86ee4,radial.archi,available,14.98,132.98,high,low,6,namecheap,,,09/09/2026 09:30
-7ae6995b-7569-42f5-877f-127797d67cc5,listener.archi,available,14.98,132.98,high,low,8,namecheap,,,21/09/2026 01:30
-65824798-a170-449c-a367-7628ca5c06da,uniquely.archi,available,19.99,103.99,high,low,8,namesilo,,,16/09/2026 10:06
-d65878b9-03aa-4ec9-ad27-a0fc7dccbf42,wistful.archi,available,14.98,132.98,high,low,7,namecheap,,,13/09/2026 12:45
-6da4542c-0e84-4c95-bbbe-f6a54e46606c,confined.archi,available,14.98,132.98,medium,low,8,namecheap,,,11/08/2026 18:20
-5a0f09ec-acd4-4e3b-9ee9-ac45b8c15bcd,fluency.archi,available,19.99,103.99,high,low,7,namesilo,,,20/09/2026 11:19
-3835c031-884d-4f47-8242-6ac768a80569,revolved.archi,available,13.14,83,medium,low,8,spaceship,,,27/09/2026 14:41
-721d1f72-bd89-40ac-b874-1b110492f352,yards.archi,available,19.99,103.99,high,low,5,namesilo,,,25/09/2026 05:56
-5ee82655-7bd7-4a65-84ae-260dd1dbc042,barber.archi,available,18.5,,high,low,6,unstoppable,,,29/09/2026 01:08
-83e7829c-c32e-4f85-b0dd-68e4d2bfe655,evacuate.archi,available,24.99,,high,low,8,name.com,,,
-f1d0de6f-867f-4b8a-b320-5fae8bc7bee3,bootlicker.archi,available,14.98,132.98,medium,low,10,namecheap,,,19/09/2026 21:12
-2a8750d2-aa44-49b8-82c9-62a703d9d4b4,agreements.archi,available,19.99,103.99,medium,low,10,namesilo,,,17/09/2026 03:09
-32b31953-5236-4f48-9449-00782ef2944c,severn.archi,available,19.99,103.99,medium,low,6,namesilo,,,28/09/2026 15:15
-0a77e143-8147-4e9b-9057-7648ff65e18b,pearly.archi,available,14.98,132.98,high,low,6,namecheap,,,08/09/2026 11:21
-6e56358e-b4a0-44ba-b946-dc00ed90426e,stall.archi,available,14.98,132.98,high,low,5,namecheap,,,27/09/2026 12:14
-35505ace-70a8-4909-a92a-4bf29094a67d,beeline.archi,available,19.99,103.99,high,low,7,namesilo,,,23/09/2026 01:18
-9bd304b9-d544-4f3e-b811-62718c516a6c,unspaced.archi,available,14.98,132.98,medium,low,8,namecheap,,,12/09/2026 20:24
-7b415a9d-77b9-4005-9713-a6bab574f209,involve.archi,available,24.99,,high,low,7,name.com,,,
-8bb070ba-81b0-416a-8357-7d05eebda526,bracing.archi,available,14.98,132.98,high,low,7,namecheap,,,11/08/2026 00:30
-9250a3ac-9f40-4046-8fe3-d1a6b2048641,shiny.archi,available,14.98,132.98,high,low,5,namecheap,,,23/09/2026 11:51
-cf921df0-f613-4b46-8e3a-d0fadebaffae,papaw.archi,available,19.99,103.99,medium,low,5,namesilo,,,20/09/2026 14:12
-cdc80f6d-2303-4ba1-98d4-b7a41233135a,emulator.archi,available,19.99,103.99,medium,low,8,namesilo,,,19/09/2026 16:28
-d8572b84-8ac1-4422-a679-78b01765a370,rarity.archi,available,14.98,132.98,high,low,6,namecheap,,,24/09/2026 20:28
-a1418f11-a0c5-4e95-a0e3-4c5c5258f347,loading.archi,available,19.99,103.99,high,low,7,namesilo,,,24/09/2026 12:57
-08f167d4-c3de-487d-82cf-700327503e0a,arbitrage.archi,available,19.99,103.99,high,low,9,namesilo,,,20/09/2026 00:42
-c1d1a4bd-11c1-459a-872b-87b7d92c1ccd,quarterly.archi,available,14.98,132.98,high,low,9,namecheap,,,09/09/2026 07:37
-94837e41-bb81-4173-beb8-d4dca6ae0926,mill.archi,available,24.99,,high,low,4,name.com,,,
-b4cd451d-4ecf-4430-9a9a-8e000037aead,angelical.archi,available,19.99,103.99,medium,low,9,namesilo,,,22/09/2026 04:27
-1fabfcba-bb9c-4d3e-b50c-a11e97a2bba1,closest.archi,available,13.14,83,medium,low,7,spaceship,,,28/09/2026 14:05
-25ed765b-beed-4a91-a970-eecceeb47514,insufficient.archi,available,24.99,,medium,low,12,name.com,,,
-fe195663-6816-4337-966e-c2f5c19cbbb7,aspirant.archi,available,14.98,132.98,medium,low,8,namecheap,,,07/08/2026 05:02
-8985f172-144c-466e-9e42-dca23c2068d8,analog.archi,available,14.98,132.98,high,low,6,namecheap,,,
-a8c79445-39b2-47fb-a089-2861838fc16f,tracing.archi,available,24.99,,high,low,7,name.com,,,
-be05688d-df4f-42c9-be80-1929ea25303a,amendment.archi,available,14.98,132.98,high,low,9,namecheap,,,18/09/2026 18:38
-f701ad2c-c321-465e-a2cb-86d4084ddadf,scranton.archi,available,19.99,103.99,medium,low,8,namesilo,,,26/09/2026 00:14
-b4d3b440-c93f-4532-9cc7-a02c2c6231e2,peal.archi,available,14.98,132.98,medium,low,4,namecheap,,,09/09/2026 18:22
-ab5fffcb-4656-4da3-851a-7ed91b362871,jade.archi,available,14.98,132.98,high,low,4,namecheap,,,22/08/2026 11:50
-3af14d81-f340-4f6c-923e-3ce7428f5bdb,cord.archi,available,24.99,,high,low,4,name.com,,,
-42644ace-2f68-40db-95e5-091e27bcada5,plucky.archi,available,14.98,132.98,high,low,6,namecheap,,,18/08/2026 00:47
-105625a3-3282-4307-88b1-073e02943269,avidly.archi,available,14.98,132.98,medium,low,6,namecheap,,,13/09/2026 22:53
-0e5fc74b-a342-4c3f-90e1-f5db438740f0,peaceable.archi,available,14.98,132.98,high,low,9,namecheap,,,08/09/2026 11:08
-2890b458-3dca-400f-821d-2236c98328b3,them.archi,available,24.99,,medium,low,4,name.com,,,
-56231a2e-0d02-441b-9ce3-1cba179b415a,homozygous.archi,available,14.98,132.98,medium,low,10,namecheap,,,21/08/2026 13:12
-9cdeae4d-e59e-4b9f-8d5f-907fdd80fe5e,brands.archi,available,19.99,103.99,high,low,6,namesilo,,,28/09/2026 04:59
-a5f1ee6d-e489-40ac-9e4c-701ed0fdea33,encourage.archi,available,24.99,,high,low,9,name.com,,,
-c64ed826-36fa-4551-9ebd-e6e9ade8375c,journal.archi,available,14.98,132.98,high,low,7,namecheap,,,19/09/2026 18:05
-ac69874a-58b1-4c7a-947d-866087a08925,josiah.archi,available,14.98,132.98,medium,low,6,namecheap,,,27/09/2026 01:34
-e1b0cc01-be65-4bf9-a923-d5ab91b74fbd,committees.archi,available,19.99,103.99,medium,low,10,namesilo,,,20/09/2026 09:05
-1f87f009-8577-43fb-8e3f-cff23a2ac3f1,carboxylic.archi,available,14.98,132.98,medium,low,10,namecheap,,,11/08/2026 18:46
-7cfe4121-ee86-4205-99e5-881206e6fca9,goldman.archi,available,19.99,103.99,high,low,7,namesilo,,,25/09/2026 05:32
-6586de07-a8a2-4ed9-8c2f-8c4eaff8651e,antitumor.archi,available,14.98,132.98,high,low,9,namecheap,,,22/09/2026 06:40
-0826832f-18d3-45d8-92cb-f52d07c1a28b,hardheaded.archi,available,14.98,132.98,medium,low,10,namecheap,,,21/08/2026 00:26
-d61656f6-4f17-4ce7-8a1b-44e88d96fe7d,tarry.archi,available,14.98,132.98,medium,low,5,namecheap,,,09/09/2026 15:16
-eb517c58-9b54-4d05-80ab-774f4f642eff,baden.archi,available,24.99,136.99,medium,low,5,name.com,,,25/09/2026 13:59
-d03d38c0-8411-479b-a355-cdfd007514d6,joyful.archi,available,14.98,132.98,high,low,6,namecheap,,,20/08/2026 14:22
-2201170f-27b3-470d-bde1-7a39de3248b3,out.archi,available,13.14,83,high,low,3,spaceship,,,28/09/2026 05:37
-3a5eef3c-70c3-461e-b677-d820501c85e8,snuff.archi,available,14.98,132.98,high,low,5,namecheap,,,12/08/2026 07:39
-85cfc4c5-e0e8-41ff-a274-a53eb88c23c3,birdbrain.archi,available,19.99,103.99,medium,low,9,namesilo,,,17/09/2026 07:04
-b5f010f6-df7a-4285-bd1e-be65359257bf,html.archi,available,24.99,,high,low,4,name.com,,,
-34f652c7-59c4-4a24-b5cb-066c197b2757,divorced.archi,available,14.98,132.98,medium,low,8,namecheap,,,14/08/2026 14:01
-8a415cfd-9f0d-4643-a8a5-d133f65268ee,relaxing.archi,available,14.98,132.98,high,low,8,namecheap,,,09/09/2026 13:30
-dd12c5ff-e23e-4f63-a083-17e4d21a2281,awny.archi,available,14.98,132.98,medium,low,4,namecheap,,,08/08/2026 01:25
-21c33fe2-6af3-4639-9f5b-1c50bde9f695,calling.archi,available,19.99,103.99,high,low,7,namesilo,,,24/09/2026 11:48
-10dccd46-94a9-4d91-8609-136b04227475,pumpkin.archi,available,19.99,103.99,high,low,7,namesilo,,,21/09/2026 08:26
-06c7ac8f-4dfe-4e9e-96ee-ae3fc227c6a3,seize.archi,available,14.98,132.98,high,low,5,namecheap,,,23/09/2026 20:08
-dab07c12-9c42-4f65-91a3-7702ca906a8f,selfish.archi,available,13.39,82.9,medium,low,7,porkbun,,,27/09/2026 19:59
